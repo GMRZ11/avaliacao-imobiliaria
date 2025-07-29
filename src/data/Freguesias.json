@@ -1,0 +1,4230 @@
+[
+  {
+    "distrito": "Aveiro",
+    "concelhos": [
+      {
+        "concelho": "Albergaria-a-Velha",
+        "freguesias": [
+          "Albergaria-a-Velha e Valmaior",
+          "Alquerubim",
+          "Angeja",
+          "Branca",
+          "Ribeira de Fráguas",
+          "São João de Loure e Frossos"
+        ]
+      },
+      {
+        "concelho": "Anadia",
+        "freguesias": [
+          "Avelãs de Caminho",
+          "Avelãs de Cima",
+          "Moita",
+          "Sangalhos",
+          "São Lourenço do Bairro",
+          "União das freguesias de Amoreira da Gândara, Paredes do Bairro e Ancas",
+          "União das freguesias de Arcos e Mogofores",
+          "União das freguesias de Tamengos, Aguim e Óis do Bairro",
+          "Vila Nova de Monsarros",
+          "Vilarinho do Bairro"
+        ]
+      },
+      {
+        "concelho": "Arouca",
+        "freguesias": [
+          "Alvarenga",
+          "Chave",
+          "Escariz",
+          "Fermedo",
+          "Mansores",
+          "Moldes",
+          "Rossas",
+          "Santa Eulália",
+          "São Miguel do Mato",
+          "Tropeço",
+          "União das freguesias de Arouca e Burgo",
+          "União das freguesias de Cabreiros e Albergaria da Serra",
+          "União das freguesias de Canelas e Espiunca",
+          "União das freguesias de Covelo de Paivó e Janarde",
+          "Urrô",
+          "Várzea"
+        ]
+      },
+      {
+        "concelho": "Aveiro",
+        "freguesias": [
+          "Aradas",
+          "Cacia",
+          "Eixo e Eirol",
+          "Esgueira",
+          "Oliveirinha",
+          "Requeixo, Nossa Senhora de Fátima e Nariz",
+          "Santa Joana",
+          "São Bernardo",
+          "São Jacinto",
+          "União das freguesias de Glória e Vera Cruz"
+        ]
+      },
+      {
+        "concelho": "Castelo de Paiva",
+        "freguesias": [
+          "Fornos",
+          "Real",
+          "Santa Maria de Sardoura",
+          "São Martinho de Sardoura",
+          "União das freguesias de Raiva, Pedorido e Paraíso",
+          "União das freguesias de Sobrado e Bairros"
+        ]
+      },
+      {
+        "concelho": "Espinho",
+        "freguesias": [
+          "Espinho",
+          "Paramos",
+          "Silvalde",
+          "União das freguesias de Anta e Guetim"
+        ]
+      },
+      {
+        "concelho": "Estarreja",
+        "freguesias": [
+          "Avanca",
+          "Pardilhó",
+          "Salreu",
+          "União das freguesias de Beduído e Veiros",
+          "União das freguesias de Canelas e Fermelã"
+        ]
+      },
+      {
+        "concelho": "Mealhada",
+        "freguesias": [
+          "Barcouço",
+          "Casal Comba",
+          "Luso",
+          "Pampilhosa",
+          "Vacariça",
+          "União das freguesias de Mealhada, Ventosa do Bairro e Antes"
+        ]
+      },
+      {
+        "concelho": "Murtosa",
+        "freguesias": [
+          "Bunheiro",
+          "Monte",
+          "Murtosa",
+          "Torreira"
+        ]
+      },
+      {
+        "concelho": "Oliveira de Azeméis",
+        "freguesias": [
+          "Carregosa",
+          "Cesar",
+          "Fajões",
+          "Loureiro",
+          "Macieira de Sarnes",
+          "Ossela",
+          "São Martinho da Gândara",
+          "São Roque",
+          "União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
+          "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz"
+        ]
+      },
+      {
+        "concelho": "Oliveira do Bairro",
+        "freguesias": [
+          "Busturenga (Oiã)",
+          "Oiã",
+          "Palhaça",
+          "União das freguesias de Bustos, Troviscal e Mamarrosa"
+        ]
+      },
+      {
+        "concelho": "Ovar",
+        "freguesias": [
+          "Arada",
+          "Cortegaça",
+          "Esmoriz",
+          "Maceda",
+          "São João",
+          "São Vicente de Pereira Jusã",
+          "União das freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã"
+        ]
+      },
+      {
+        "concelho": "Santa Maria da Feira",
+        "freguesias": [
+          "Argoncilhe",
+          "Arrifana",
+          "Escapães",
+          "Fiães",
+          "Fornos",
+          "Lourosa",
+          "Milheirós de Poiares",
+          "Mozelos",
+          "Nogueira da Regedoura",
+          "Paços de Brandão",
+          "Rio Meão",
+          "Sanguedo",
+          "São João de Ver",
+          "União das freguesias de Caldas de São Jorge e Pigeiros",
+          "União das freguesias de Canedo, Vale e Vila Maior",
+          "União das freguesias de Lobão, Gião, Louredo e Guisande",
+          "União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
+          "União das freguesias de Souto e Mosteirô"
+        ]
+      },
+      {
+        "concelho": "Sever do Vouga",
+        "freguesias": [
+          "Cedrim e Paradela",
+          "Couto de Esteves",
+          "Pessegueiro do Vouga",
+          "Rocas do Vouga",
+          "Sever do Vouga",
+          "Silva Escura e Dornelas"
+        ]
+      },
+      {
+        "concelho": "São João da Madeira",
+        "freguesias": [
+          "São João da Madeira"
+        ]
+      },
+      {
+        "concelho": "Vagos",
+        "freguesias": [
+          "Calvão",
+          "Fonte de Angeão e Covão do Lobo",
+          "Gafanha da Boa Hora",
+          "Ouca",
+          "Santa Catarina",
+          "Santo André de Vagos",
+          "Sosa",
+          "União das freguesias de Vagos e Santo António"
+        ]
+      },
+      {
+        "concelho": "Vale de Cambra",
+        "freguesias": [
+          "Arões",
+          "Cepelos",
+          "Junqueira",
+          "Macieira de Cambra",
+          "Roge",
+          "União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho"
+        ]
+      },
+      {
+        "concelho": "Águeda",
+        "freguesias": [
+          "Aguada de Cima",
+          "Fermentelos",
+          "Macinhata do Vouga",
+          "União das freguesias de Barrô e Aguada de Baixo",
+          "União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão",
+          "União das freguesias de Recardães e Espinhel",
+          "União das freguesias de Trofa, Segadães e Lamas do Vouga",
+          "União das freguesias de Águeda e Borralha",
+          "União das freguesias do Préstimo e Macieira de Alcoba",
+          "Valongo do Vouga"
+        ]
+      },
+      {
+        "concelho": "Ílhavo",
+        "freguesias": [
+          "Gafanha da Encarnação",
+          "Gafanha da Nazaré",
+          "Gafanha do Carmo",
+          "Ílhavo (São Salvador)"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Beja",
+    "concelhos": [
+      {
+        "concelho": "Aljustrel",
+        "freguesias": [
+          "Ervidel",
+          "Messejana",
+          "São João de Negrilhos",
+          "União das freguesias de Aljustrel e Rio de Moinhos"
+        ]
+      },
+      {
+        "concelho": "Almodôvar",
+        "freguesias": [
+          "Aldeia dos Fernandes",
+          "Rosário",
+          "Santa Cruz",
+          "São Barnabé",
+          "União das freguesias de Almodôvar e Graça dos Padrões",
+          "União das freguesias de Santa Clara-a-Nova e Gomes Aires"
+        ]
+      },
+      {
+        "concelho": "Alvito",
+        "freguesias": [
+          "Alvito",
+          "Vila Nova da Baronia"
+        ]
+      },
+      {
+        "concelho": "Barrancos",
+        "freguesias": [
+          "Barrancos"
+        ]
+      },
+      {
+        "concelho": "Beja",
+        "freguesias": [
+          "Baleizão",
+          "Beringel",
+          "Cabeça Gorda",
+          "Nossa Senhora das Neves",
+          "Santa Clara de Louredo",
+          "São Matias",
+          "União das freguesias de Albernoa e Trindade",
+          "União das freguesias de Beja (Salvador e Santa Maria da Feira)",
+          "União das freguesias de Beja (Santiago Maior e São João Baptista)",
+          "União das freguesias de Salvada e Quintos",
+          "União das freguesias de Santa Vitória e Mombeja",
+          "União das freguesias de Trigaches e São Brissos"
+        ]
+      },
+      {
+        "concelho": "Castro Verde",
+        "freguesias": [
+          "Entradas",
+          "Santa Bárbara de Padrões",
+          "São Marcos da Ataboeira",
+          "União das freguesias de Castro Verde e Casével"
+        ]
+      },
+      {
+        "concelho": "Cuba",
+        "freguesias": [
+          "Cuba",
+          "Faro do Alentejo",
+          "Vila Alva",
+          "Vila Ruiva"
+        ]
+      },
+      {
+        "concelho": "Ferreira do Alentejo",
+        "freguesias": [
+          "Alfundão e Peroguarda",
+          "Ferreira do Alentejo e Canhestros",
+          "Figueira dos Cavaleiros",
+          "Odivelas"
+        ]
+      },
+      {
+        "concelho": "Moura",
+        "freguesias": [
+          "Amareleja",
+          "Póvoa de São Miguel",
+          "Safara e Santo Aleixo da Restauração",
+          "Sobral da Adiça",
+          "União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador"
+        ]
+      },
+      {
+        "concelho": "Mértola",
+        "freguesias": [
+          "Alcoutim",
+          "Alcaria Ruiva",
+          "Corte do Pinto",
+          "Espírito Santo",
+          "Mértola",
+          "Santana de Cambas",
+          "São João dos Caldeireiros"
+        ]
+      },
+      {
+        "concelho": "Odemira",
+        "freguesias": [
+          "Boavista dos Pinheiros",
+          "Colos",
+          "Longueira/Almograve",
+          "Luzianes-Gare",
+          "São Luís",
+          "São Martinho das Amoreiras",
+          "São Teotónio",
+          "Vale de Santiago",
+          "Vila Nova de Milfontes",
+          "Zambujeira do Mar",
+          "União das freguesias de Relíquias, São Miguel de Santa Catarina e São Salvador",
+          "União das freguesias de São Salvador e Santa Maria"
+        ]
+      },
+      {
+        "concelho": "Ourique",
+        "freguesias": [
+          "Garvão e Santa Luzia",
+          "Ourique",
+          "Panoias e Conceição",
+          "Santana da Serra"
+        ]
+      },
+      {
+        "concelho": "Serpa",
+        "freguesias": [
+          "Brinches",
+          "Pias",
+          "Vila Nova de São Bento e Vale de Vargo",
+          "Vila Verde de Ficalho",
+          "União das freguesias de Serpa (Salvador e Santa Maria)",
+          "União das freguesias de Vila Nova de São Bento e Vale de Vargo"
+        ]
+      },
+      {
+        "concelho": "Vidigueira",
+        "freguesias": [
+          "Pedrógão",
+          "Selmes",
+          "Vidigueira",
+          "Vila de Frades"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Braga",
+    "concelhos": [
+      {
+        "concelho": "Amares",
+        "freguesias": [
+          "Barreiros",
+          "Bico",
+          "Bouro (Santa Maria)",
+          "Bouro (Santa Marta)",
+          "Caires",
+          "Carrazedo",
+          "Dornelas",
+          "Fiscal",
+          "Goães",
+          "Lago",
+          "Rendufe",
+          "União das freguesias de Amares e Figueiredo",
+          "União das freguesias de Caldelas, Sequeiros e Paranhos",
+          "União das freguesias de Ferreiros, Prozelo e Besteiros",
+          "União das freguesias de Torre e Portela",
+          "União das freguesias de Vilela, Seramil e Paredes Secas"
+        ]
+      },
+      {
+        "concelho": "Barcelos",
+        "freguesias": [
+          "Abade de Neiva",
+          "Aborim",
+          "Adães",
+          "Airó",
+          "Aldreu",
+          "Alvelos",
+          "Arcozelo",
+          "Areias",
+          "Balugães",
+          "Barcelinhos",
+          "Barqueiros",
+          "Cambeses",
+          "Carapeços",
+          "Carvalhal",
+          "Carvalhas",
+          "Cossourado",
+          "Cristelo",
+          "Fornelos",
+          "Fragoso",
+          "Galegos (Santa Maria)",
+          "Galegos (São Martinho)",
+          "Gilmonde",
+          "Lama",
+          "Lijó",
+          "Macieira de Rates",
+          "Manhente",
+          "Martim",
+          "Moure",
+          "Oliveira",
+          "Palme",
+          "Panque",
+          "Paradela",
+          "Pereira",
+          "Perelhal",
+          "Pousa",
+          "Remelhe",
+          "Rio Covo (Santa Eugénia)",
+          "Roriz",
+          "Silva",
+          "Tamel (São Veríssimo)",
+          "Ucha",
+          "União das freguesias de Alheira e Igreja Nova",
+          "União das freguesias de Alvito (São Pedro e São Martinho) e Couto",
+          "União das freguesias de Areias de Vilar e Encourados",
+          "União das freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)",
+          "União das freguesias de Campo e Tamel (São Pedro Fins)",
+          "União das freguesias de Carreira e Fonte Coberta",
+          "União das freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral",
+          "União das freguesias de Creixomil e Mariz",
+          "União das freguesias de Durrães e Tregosa",
+          "União das freguesias de Gamil e Midões",
+          "União das freguesias de Milhazes, Vilar de Figos e Faria",
+          "União das freguesias de Negreiros e Chavão",
+          "União das freguesias de Quintiães e Aguiar",
+          "União das freguesias de Sequeade e Bastuço (São João e Santo Estevão)",
+          "União das freguesias de Silveiros e Rio Covo (Santa Eulália)",
+          "União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte",
+          "União das freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães",
+          "União das freguesias de Vila Cova e Feitos",
+          "Vila Seca",
+          "Várzea"
+        ]
+      },
+      {
+        "concelho": "Braga",
+        "freguesias": [
+          "Adaúfe",
+          "Braga (São Vicente)",
+          "Braga (São Vítor)",
+          "Espinho",
+          "Esporões",
+          "Figueiredo",
+          "Gualtar",
+          "Lamas",
+          "Mire de Tibães",
+          "Padim da Graça",
+          "Palmeira",
+          "Pedralva",
+          "Priscos",
+          "Ruilhe",
+          "Sequeira",
+          "Sobreposta",
+          "Tadim",
+          "Tebosa",
+          "União das freguesias de Arentim e Cunha",
+          "União das freguesias de Braga (Maximinos, Sé e Cividade)",
+          "União das freguesias de Braga (São José de São Lázaro e São João do Souto)",
+          "União das freguesias de Cabreiros e Passos (São Julião)",
+          "União das freguesias de Celeirós, Aveleda e Vimieiro",
+          "União das freguesias de Crespos e Pousada",
+          "União das freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente)",
+          "União das freguesias de Este (São Pedro e São Mamede)",
+          "União das freguesias de Ferreiros e Gondizalves",
+          "União das freguesias de Guisande e Oliveira (São Pedro)",
+          "União das freguesias de Lomar e Arcos",
+          "União das freguesias de Merelim (São Paio), Panoias e Parada de Tibães",
+          "União das freguesias de Merelim (São Pedro) e Frossos",
+          "União das freguesias de Morreira e Trandeiras",
+          "União das freguesias de Nogueira, Fraião e Lamaçães",
+          "União das freguesias de Nogueiró e Tenões",
+          "União das freguesias de Real, Dume e Semelhe",
+          "União das freguesias de Santa Lucrécia de Algeriz e Navarra",
+          "União das freguesias de Vilaça e Fradelos"
+        ]
+      },
+      {
+        "concelho": "Cabeceiras de Basto",
+        "freguesias": [
+          "Abadim",
+          "Basto",
+          "Bucos",
+          "Cabeceiras de Basto",
+          "Cavez",
+          "Faia",
+          "Pedraça",
+          "Rio Douro",
+          "União das freguesias de Alvite e Passos",
+          "União das freguesias de Arco de Baúlhe e Vila Nune",
+          "União das freguesias de Gondiães e Vilar de Cunhas",
+          "União das freguesias de Refojos de Basto, Outeiro e Painzela"
+        ]
+      },
+      {
+        "concelho": "Celorico de Basto",
+        "freguesias": [
+          "Agilde",
+          "Arnóia",
+          "Basto (São Clemente)",
+          "Borba de Montanha",
+          "Codeçoso",
+          "Fervença",
+          "Moreira do Castelo",
+          "Rego",
+          "Ribas",
+          "União das freguesias de Britelo, Gémeos e Ourilhe",
+          "União das freguesias de Canedo de Basto e Corgo",
+          "União das freguesias de Carvalho e Basto (Santa Tecla)",
+          "União das freguesias de Caçarilhe e Infesta",
+          "União das freguesias de Veade, Gagos e Molares",
+          "Vale de Bouro"
+        ]
+      },
+      {
+        "concelho": "Esposende",
+        "freguesias": [
+          "Antas",
+          "Forjães",
+          "Gemeses",
+          "União das freguesias de Apúlia e Fão",
+          "União das freguesias de Belinho e Mar",
+          "União das freguesias de Esposende, Marinhas e Gandra",
+          "União das freguesias de Fonte Boa e Rio Tinto",
+          "União das freguesias de Palmeira de Faro e Curvos",
+          "Vila Chã"
+        ]
+      },
+      {
+        "concelho": "Fafe",
+        "freguesias": [
+          "Ardegão, Arnozela e Seidões",
+          "Armil",
+          "Antime e Silvares (São Clemente)",
+          "Aião",
+          "Borba de Montanha",
+          "Cepães e Fareja",
+          "Estorãos",
+          "Fafe",
+          "Felgueiras",
+          "Figueiró",
+          "Freitas e Vila Cova",
+          "Golães",
+          "Gontim",
+          "Medelo",
+          "Monte e Queimadela",
+          "Moreira do Rei e Várzea Cova",
+          "Passos",
+          "Quinchães",
+          "Regadas",
+          "Revelhe",
+          "Ribeiros",
+          "Arões (São Romão)",
+          "São Gens",
+          "São Martinho de Silvares",
+          "Arões (Santa Cristina)",
+          "Seidões",
+          "Serafão",
+          "Ardegão"
+        ]
+      },
+      {
+        "concelho": "Guimarães",
+        "freguesias": [
+          "Airão Santa Maria, Airão São João e Vermil",
+          "Arosa e Castelões",
+          "Atães e Rendufe",
+          "Azurém",
+          "Barco",
+          "Briteiros Santo Estêvão e Donim",
+          "Briteiros São Salvador e Briteiros Santa Leocádia",
+          "Brito",
+          "Candoso São Martinho",
+          "Candoso Santiago e Mascotelos",
+          "Costa",
+          "Creixomil",
+          "Fermentões",
+          "Gonça",
+          "Gondar",
+          "Guardizela",
+          "Infantas",
+          "Leitões, Oleiros e Figueiredo",
+          "Longos",
+          "Lordelo",
+          "Mesão Frio",
+          "Moreira de Cónegos",
+          "Nespereira",
+          "Nespereira e Casais",
+          "Pencelo",
+          "Pinheiro",
+          "Polvoreira",
+          "Ponte",
+          "Prazins (Santa Eufémia)",
+          "Prazins (Santo Tirso) e Corvite",
+          "Ronfe",
+          "Sande São Lourenço e Balazar",
+          "Sande São Martinho",
+          "Sande Vila Nova e Sande São Clemente",
+          "São Cristóvão de Selho",
+          "São Faustino",
+          "São Torcato",
+          "Selho São Jorge (Pevidém)",
+          "Serzedelo",
+          "Serzedo e Calvos",
+          "Silvares",
+          "Selho São Cristóvão e Selho São Lourenço",
+          "Tabuadelo e São Faustino",
+          "Urgezes",
+          "Vila Nova de Sande"
+        ]
+      },
+      {
+        "concelho": "Póvoa de Lanhoso",
+        "freguesias": [
+          "Águas Santas e Moure",
+          "Calvos e Frades",
+          "Campos e Louredo",
+          "Covelas",
+          "Ferreiros",
+          "Fonte Arcada e Oliveira",
+          "Galegos",
+          "Garfe",
+          "Geraz do Minho",
+          "Lanhoso (Nossa Senhora do Amparo)",
+          "Monsul",
+          "Póvoa de Lanhoso (Nossa Senhora do Amparo)",
+          "Rendufinho",
+          "Santo Emilião",
+          "São Martinho de Campo",
+          "São João de Rei",
+          "Taíde",
+          "Travassos",
+          "Verim, Friande e Ajude",
+          "Vilela, Serzedelo e Sa"
+        ]
+      },
+      {
+        "concelho": "Terras de Bouro",
+        "freguesias": [
+          "Balança",
+          "Campo do Gerês",
+          "Carvalheira",
+          "Chamoim e Vilar",
+          "Chorense e Monte",
+          "Covide",
+          "Gondoriz",
+          "Moimenta",
+          "Ribeira",
+          "Rio Caldo",
+          "Souto",
+          "Valdosende",
+          "Vilar da Veiga"
+        ]
+      },
+      {
+        "concelho": "Vieira do Minho",
+        "freguesias": [
+          "Anissó e Soutelo",
+          "Anjos e Vilar do Chão",
+          "Caniçada e Soengas",
+          "Cantelães",
+          "Eira Vedra",
+          "Guilhofrei",
+          "Louredo",
+          "Mosteiro",
+          "Parada de Bouro",
+          "Pinheiro",
+          "Rossas",
+          "Ruivães e Campos",
+          "Salamonde",
+          "Tabuaças",
+          "Ventosa e Cova",
+          "Vieira do Minho"
+        ]
+      },
+      {
+        "concelho": "Vila Nova de Famalicão",
+        "freguesias": [
+          "Antas e Abade de Vermoim",
+          "Arnoso (Santa Maria e Santa Eulália) e Sezures",
+          "Avidos e Lagoa",
+          "Carreira e Bente",
+          "Esmeriz e Cabeçudos",
+          "Gondifelos, Cavalões e Outiz",
+          "Lemenhe, Mouquim e Jesufrei",
+          "Ruivães e Novais",
+          "Seide",
+          "Vale (São Cosme), Telhado e Portela",
+          "União das freguesias de Vila Nova de Famalicão e Calendário",
+          "Vale (São Martinho)",
+          "Vermoim",
+          "Vilarinho das Cambas"
+        ]
+      },
+      {
+        "concelho": "Vila Verde",
+        "freguesias": [
+          "Aboim da Nóbrega e Gondomar",
+          "Atiães",
+          "Cabanelas",
+          "Cervães",
+          "Coucieiro",
+          "Dossãos",
+          "Freiriz",
+          "Gême",
+          "Lage",
+          "Lanhas",
+          "Loureira",
+          "Moure",
+          "Oleiros",
+          "Parada de Gatim",
+          "Pico",
+          "Ponte",
+          "Prado (São Miguel)",
+          "Sabariz",
+          "Soutelo",
+          "Turiz",
+          "União das freguesias da Ribeira do Neiva",
+          "União das freguesias de Carreiras (São Miguel) e Carreiras (Santiago)",
+          "União das freguesias de Escariz (São Mamede) e Escariz (São Martinho)",
+          "União das freguesias de Esqueiros, Nevogilde e Travassós",
+          "União das freguesias de Marrancos e Arcozelo",
+          "União das freguesias de Oriz (Santa Marinha) e Oriz (São Miguel)",
+          "União das freguesias de Pico de Regalados, Gondiães e Mós",
+          "União das freguesias de Sande, Vilarinho, Barros e Gomide",
+          "União das freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho)",
+          "União das freguesias do Vade",
+          "Valdreu",
+          "Vila Verde e Barbudo",
+          "Vila de Prado"
+        ]
+      },
+      {
+        "concelho": "Vizela",
+        "freguesias": [
+          "Infias",
+          "Santa Eulália",
+          "União das freguesias de Caldas de Vizela (São Miguel e São João)",
+          "União das freguesias de Tagilde e Vizela (São Paio)",
+          "Vizela (Santo Adrião)"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Bragança",
+    "concelhos": [
+      {
+        "concelho": "Alfândega da Fé",
+        "freguesias": [
+          "Alfândega da Fé",
+          "Cerejais",
+          "Sambade",
+          "União das freguesias de Agrobom, Saldonha e Vale Pereiro",
+          "União das freguesias de Eucisia, Gouveia e Valverde",
+          "União das freguesias de Ferradosa e Sendim da Serra",
+          "União das freguesias de Gebelim e Soeima",
+          "União das freguesias de Parada e Sendim da Ribeira",
+          "União das freguesias de Pombal e Vales",
+          "Vilar Chão",
+          "Vilarelhos",
+          "Vilares de Vilariça"
+        ]
+      },
+      {
+        "concelho": "Bragança",
+        "freguesias": [
+          "Alfaião",
+          "Babe",
+          "Baçal",
+          "Carragosa",
+          "Castro de Avelãs",
+          "Coelhoso",
+          "Donai",
+          "Espinhosela",
+          "França",
+          "Gimonde",
+          "Gondesende",
+          "Gostei",
+          "Grijó de Parada",
+          "Macedo do Mato",
+          "Mós",
+          "Nogueira",
+          "Outeiro",
+          "Parâmio",
+          "Pinela",
+          "Quintanilha",
+          "Quintela de Lampaças",
+          "Rabal",
+          "Rebordãos",
+          "Salsas",
+          "Samil",
+          "Santa Comba de Rossas",
+          "Sendas",
+          "Serapicos",
+          "Sortes",
+          "São Pedro de Sarracenos",
+          "União das freguesias de Aveleda e Rio de Onor",
+          "União das freguesias de Castrelos e Carrazedo",
+          "União das freguesias de Izeda, Calvelhe e Paradinha Nova",
+          "União das freguesias de Parada e Faílde",
+          "União das freguesias de Rebordainhos e Pombares",
+          "União das freguesias de Rio Frio e Milhão",
+          "União das freguesias de São Julião de Palácios e Deilão",
+          "União das freguesias de Sé, Santa Maria e Meixedo",
+          "Zoio"
+        ]
+      },
+      {
+        "concelho": "Carrazeda de Ansiães",
+        "freguesias": [
+          "Carrazeda de Ansiães",
+          "Fonte Longa",
+          "Linhares",
+          "Marzagão",
+          "Parambos",
+          "Pereiros",
+          "Pinhal do Norte",
+          "Pombal",
+          "Seixo de Ansiães",
+          "União das freguesias de Amedo e Zedes",
+          "União das freguesias de Belver e Mogo de Malta",
+          "União das freguesias de Castanheiro do Norte e Ribalonga",
+          "União das freguesias de Lavandeira, Beira Grande e Selores",
+          "Vilarinho da Castanheira"
+        ]
+      },
+      {
+        "concelho": "Freixo de Espada à Cinta",
+        "freguesias": [
+          "Freixo de Espada à Cinta e Mazouco",
+          "Ligares",
+          "Poiares",
+          "União das freguesias de Lagoaça e Fornos"
+        ]
+      },
+      {
+        "concelho": "Macedo de Cavaleiros",
+        "freguesias": [
+          "Amendoeira",
+          "Arcas",
+          "Carrapatas",
+          "Castelo Branco",
+          "Cortiços",
+          "Chacim",
+          "Espadanedo",
+          "Ferreira",
+          "Grijó",
+          "Lagoa",
+          "Lamas",
+          "Lombo",
+          "Morais",
+          "Olmos",
+          "Peredo",
+          "Sezulfe",
+          "Talhas",
+          "Vale Benfeito",
+          "Vale da Porca",
+          "Vilarinho de Agrochão",
+          "Vilarinho do Monte",
+          "União das freguesias de Ala e Vilarinho do Monte",
+          "União das freguesias de Bornes e Burga",
+          "União das freguesias de Castelãos e Vilar do Monte",
+          "União das freguesias de Espadanedo, Edroso, Murçós e Soutelo Mourisco",
+          "União das freguesias de Podence e Santa Combinha",
+          "União das freguesias de Talhinhas e Bagueixe",
+          "União das freguesias de Vale de Prados e Amandi"
+        ]
+      },
+      {
+        "concelho": "Miranda do Douro",
+        "freguesias": [
+          "Cicouro",
+          "Ifanes e Paradela",
+          "Malhadas",
+          "Palaçoulo",
+          "Picote",
+          "Póvoa",
+          "São Martinho de Angueira",
+          "Vila Chã de Braciosa",
+          "Constantim e Cicouro",
+          "Miranda do Douro",
+          "União das freguesias de Sendim e Atenor"
+        ]
+      },
+      {
+        "concelho": "Mirandela",
+        "freguesias": [
+          "Abambres",
+          "Abreiro",
+          "Aguieiras",
+          "Alvites",
+          "Avantos e Romeu",
+          "Avidagos, Navalho e Pereira",
+          "Bronze",
+          "Cabanelas",
+          "Carvalhais",
+          "Chelas",
+          "Cortiços",
+          "Fradizela",
+          "Franco e Vila Boa",
+          "Frechas",
+          "Golfeiras",
+          "Guadramil e Rio de Onor",
+          "Lamas de Orelhão",
+          "Mascarenhas",
+          "Múrias",
+          "Passos",
+          "Sacos",
+          "São Pedro Velho",
+          "Suçães",
+          "Torre de Dona Chama",
+          "Vale de Asnes",
+          "Vale de Gouvinhas",
+          "Vale de Salgueiro",
+          "Vila Verde",
+          "Mirandela"
+        ]
+      },
+      {
+        "concelho": "Mogadouro",
+        "freguesias": [
+          "Bemposta",
+          "Bruçó",
+          "Brunhozinho, Castanheira e Sanhoane",
+          "Brunhozinho",
+          "Corte",
+          "Figueira",
+          "Freixo",
+          "Izeda e Paradinha Velha",
+          "Lagoa e Ribas",
+          "Machado",
+          "Mogadouro, Valverde, Vale de Porco e Vilar de Rei",
+          "Monsul",
+          "Olmos",
+          "Penas Roias",
+          "Peredo da Bemposta, Cardanho e Brunhozinho",
+          "Remondes e Soutelo",
+          "Tó"
+        ]
+      },
+      {
+        "concelho": "Torre de Moncorvo",
+        "freguesias": [
+          "Açoreira",
+          "Adeganha e Cardanha",
+          "Carviçais",
+          "Castedo",
+          "Felgar e Souto da Velha",
+          "Felgar",
+          "Horta",
+          "Larinho",
+          "Lousa",
+          "Maçores",
+          "Mós",
+          "Torre de Moncorvo",
+          "União das freguesias de Carvalhal e Adeganha"
+        ]
+      },
+      {
+        "concelho": "Vila Flor",
+        "freguesias": [
+          "Assares e Lodões",
+          "Benlhevai",
+          "Candoso",
+          "Carvalho de Egas",
+          "Freixiel",
+          "Morais",
+          "Nabo",
+          "Roios",
+          "Samões",
+          "Seixo de Manhoses",
+          "Trindade e Avidagos",
+          "União das freguesias de Vale Frechoso e Maltosa",
+          "Vilafria"
+        ]
+      },
+      {
+        "concelho": "Vimioso",
+        "freguesias": [
+          "Argozelo",
+          "Carção",
+          "Matela",
+          "Pinelo",
+          "Santulhão",
+          "União das freguesias de Algoso, Campo de Víboras e Uva",
+          "União das freguesias de Caçarelhos e Angueira",
+          "União das freguesias de Vale de Frades e Avelanoso",
+          "Vilar Seco",
+          "Vimioso"
+        ]
+      },
+      {
+        "concelho": "Vinhais",
+        "freguesias": [
+          "Agrochão",
+          "Candedo",
+          "Celas",
+          "Edral",
+          "Edrosa",
+          "Ervedosa",
+          "Paçó",
+          "Penhas Juntas",
+          "Rebordelo",
+          "Santalha",
+          "Tuizelo",
+          "União das freguesias de Curopos e Vale de Janeiro",
+          "União das freguesias de Moimenta e Montouto",
+          "União das freguesias de Nunes e Ousilhão",
+          "União das freguesias de Quirás e Pinheiro Novo",
+          "União das freguesias de Sobreiro de Baixo e Alvaredos",
+          "União das freguesias de Soeira, Fresulfe e Mofreita",
+          "União das freguesias de Travanca e Santa Cruz",
+          "União das freguesias de Vilar de Lomba e São Jomil",
+          "Vale das Fontes",
+          "Vila Boa de Ousilhão",
+          "Vila Verde",
+          "Vilar Seco de Lomba",
+          "Vilar de Ossos",
+          "Vilar de Peregrinos",
+          "Vinhais"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Castelo Branco",
+    "concelhos": [
+      {
+        "concelho": "Belmonte",
+        "freguesias": [
+          "Caria",
+          "Inguias",
+          "Maçainhas",
+          "União das freguesias de Belmonte e Colmeal da Torre"
+        ]
+      },
+      {
+        "concelho": "Castelo Branco",
+        "freguesias": [
+          "Alcains",
+          "Almaceda",
+          "Benquerenças",
+          "Castelo Branco",
+          "Lardosa",
+          "Louriçal do Campo",
+          "Malpica do Tejo",
+          "Monforte da Beira",
+          "Salgueiro do Campo",
+          "Santo André das Tojeiras",
+          "Sarzedas",
+          "São Vicente da Beira",
+          "Tinalhas",
+          "União das freguesias de Cebolais de Cima e Retaxo",
+          "União das freguesias de Escalos de Baixo e Mata",
+          "União das freguesias de Escalos de Cima e Lousa",
+          "União das freguesias de Freixial e Juncal do Campo",
+          "União das freguesias de Ninho do Açor e Sobral do Campo",
+          "União das freguesias de Póvoa de Rio de Moinhos e Cafede"
+        ]
+      },
+      {
+        "concelho": "Covilhã",
+        "freguesias": [
+          "Aldeia de São Francisco de Assis",
+          "Boidobra",
+          "Cortes do Meio",
+          "Dominguizo",
+          "Erada",
+          "Ferro",
+          "Orjais",
+          "Paul",
+          "Peraboa",
+          "Sobral de São Miguel",
+          "São Jorge da Beira",
+          "Tortosendo",
+          "Unhais da Serra",
+          "União das freguesias de Barco e Coutada",
+          "União das freguesias de Cantar-Galo e Vila do Carvalho",
+          "União das freguesias de Casegas e Ourondo",
+          "União das freguesias de Covilhã e Canhoso",
+          "União das freguesias de Peso e Vales do Rio",
+          "União das freguesias de Teixoso e Sarzedo",
+          "União das freguesias de Vale Formoso e Aldeia do Souto",
+          "Verdelhos"
+        ]
+      },
+      {
+        "concelho": "Fundão",
+        "freguesias": [
+          "Alcaide",
+          "Alcongosta",
+          "Alpedrinha",
+          "Barroca",
+          "Bogas de Cima",
+          "Capinha",
+          "Donas",
+          "Enxames",
+          "Fatela",
+          "Janeiro de Cima e Bogas de Baixo",
+          "Lavacolhos",
+          "Póvoa de Atalaia e Atalaia do Campo",
+          "Silvares",
+          "Soalheira",
+          "Souto da Casa",
+          "Telhado",
+          "Três Povos",
+          "Vale de Prazeres e Mata da Rainha",
+          "Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",
+          "Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo"
+        ]
+      },
+      {
+        "concelho": "Idanha-a-Nova",
+        "freguesias": [
+          "Aldeia de Santa Margarida",
+          "Idanha-a-Nova e Alcafozes",
+          "Ladoeiro",
+          "Monsanto e Idanha-a-Velha",
+          "Monfortinho e Salvaterra do Extremo",
+          "Oledo",
+          "Penha Garcia",
+          "Proença-a-Velha",
+          "São Miguel de Acha",
+          "Segura",
+          "Zebreira e Segura",
+          "Rosmaninhal"
+        ]
+      },
+      {
+        "concelho": "Oleiros",
+        "freguesias": [
+          "Álvaro",
+          "Cambas",
+          "Isna",
+          "Madeirã",
+          "Mosteiro",
+          "Oleiros-Amieira",
+          "Orvalho",
+          "Sobral",
+          "Estreito-Vilar Barroco",
+          "Sertã",
+          "Unhais-o-Velho"
+        ]
+      },
+      {
+        "concelho": "Penamacor",
+        "freguesias": [
+          "Aldeia do Bispo, Águas e Aldeia de João Pires",
+          "Aranhas",
+          "Benquerença",
+          "Meimão",
+          "Meimoa",
+          "Pedrógão de São Pedro e Bemposta",
+          "Penamacor",
+          "Salvador",
+          "Vale da Senhora da Póvoa"
+        ]
+      },
+      {
+        "concelho": "Proença-a-Nova",
+        "freguesias": [
+          "Peral",
+          "Proença-a-Nova e Peral",
+          "São Pedro do Esteval",
+          "Sobreira Formosa e Alvito da Beira"
+        ]
+      },
+      {
+        "concelho": "Sertã",
+        "freguesias": [
+          "Cabeçudo",
+          "Carvalhal",
+          "Castelo",
+          "Cernache do Bonjardim, Nesperal e Palhais",
+          "Ermida e Figueiredo",
+          "Sertã",
+          "Troviscal",
+          "Várzea dos Cavaleiros"
+        ]
+      },
+      {
+        "concelho": "Vila Velha de Ródão",
+        "freguesias": [
+          "Fratel",
+          "Perais",
+          "Sarnadas de Ródão",
+          "Vila Velha de Ródão"
+        ]
+      },
+      {
+        "concelho": "Vila de Rei",
+        "freguesias": [
+          "Fundada",
+          "São João do Peso",
+          "Vila de Rei"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Coimbra",
+    "concelhos": [
+      {
+        "concelho": "Arganil",
+        "freguesias": [
+          "Arganil",
+          "Benfeita",
+          "Celavisa",
+          "Folques",
+          "Piódão",
+          "Pomares",
+          "Pombeiro da Beira",
+          "Sarzedo",
+          "Secarias",
+          "São Martinho da Cortiça",
+          "União das freguesias de Cepos e Teixeira",
+          "União das freguesias de Cerdeira e Moura da Serra",
+          "União das freguesias de Côja e Barril de Alva",
+          "União das freguesias de Vila Cova de Alva e Anseriz"
+        ]
+      },
+      {
+        "concelho": "Cantanhede",
+        "freguesias": [
+          "Ançã",
+          "Cadima",
+          "Cordinhã",
+          "Febres",
+          "Murtede",
+          "Ourentã",
+          "Sanguinheira",
+          "São Caetano",
+          "Tocha",
+          "União das freguesias de Cantanhede e Pocariça",
+          "União das freguesias de Covões e Camarneira",
+          "União das freguesias de Portunhos e Outil",
+          "União das freguesias de Sepins e Bolho",
+          "União das freguesias de Vilamar e Corticeiro de Cima"
+        ]
+      },
+      {
+        "concelho": "Coimbra",
+        "freguesias": [
+          "Almalaguês",
+          "Brasfemes",
+          "Ceira",
+          "Cernache",
+          "Santo António dos Olivais",
+          "São João do Campo",
+          "São Silvestre",
+          "Torres do Mondego",
+          "União das freguesias de Antuzede e Vil de Matos",
+          "União das freguesias de Assafarge e Antanhol",
+          "União das freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)",
+          "União das freguesias de Eiras e São Paulo de Frades",
+          "União das freguesias de Santa Clara e Castelo Viegas",
+          "União das freguesias de Souselas e Botão",
+          "União das freguesias de São Martinho de Árvore e Lamarosa",
+          "União das freguesias de São Martinho do Bispo e Ribeira de Frades",
+          "União das freguesias de Taveiro, Ameal e Arzila",
+          "União das freguesias de Trouxemil e Torre de Vilela"
+        ]
+      },
+      {
+        "concelho": "Condeixa-a-Nova",
+        "freguesias": [
+          "Anobra",
+          "Ega",
+          "Furadouro",
+          "União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova",
+          "União das freguesias de Sebal e Belide",
+          "União das freguesias de Vila Seca e Bem da Fé"
+        ]
+      },
+      {
+        "concelho": "Figueira da Foz",
+        "freguesias": [
+          "Alhadas",
+          "Bom Sucesso",
+          "Buarcos e São Julião",
+          "Ferreira-a-Nova",
+          "Lavos",
+          "Maiorca",
+          "Marinha das Ondas",
+          "Paião",
+          "Quiaios",
+          "Tavarede",
+          "Vila Verde",
+          "Moinhos da Gândara",
+          "Alqueidão",
+          "Lares"
+        ]
+      },
+      {
+        "concelho": "Góis",
+        "freguesias": [
+          "Alvares",
+          "Cadafaz e Colmeal",
+          "Góis",
+          "Vila Nova do Ceira"
+        ]
+      },
+      {
+        "concelho": "Lousã",
+        "freguesias": [
+          "Foz de Arouce e Casal de Ermio",
+          "Gândaras",
+          "Lousã e Vilarinho",
+          "Serpins"
+        ]
+      },
+      {
+        "concelho": "Mira",
+        "freguesias": [
+          "Mira",
+          "Seixo",
+          "Carapelhos"
+        ]
+      },
+      {
+        "concelho": "Miranda do Corvo",
+        "freguesias": [
+          "Lamas",
+          "Miranda do Corvo",
+          "Semide e Rio Vide",
+          "Vila Nova"
+        ]
+      },
+      {
+        "concelho": "Montemor-o-Velho",
+        "freguesias": [
+          "Abrunheira, Verride e Vila Nova da Barca",
+          "Arazede",
+          "Carapinheira",
+          "Ereira",
+          "Liceia",
+          "Meãs do Campo",
+          "Montemor-o-Velho e Gatões",
+          "Pereira",
+          "Santo Varão",
+          "Seixo de Gatões",
+          "Tentúgal",
+          "União das freguesias de Abrunheira, Verride e Vila Nova da Barca"
+        ]
+      },
+      {
+        "concelho": "Oliveira do Hospital",
+        "freguesias": [
+          "Aldeia das Dez",
+          "Alvoco das Várzeas",
+          "Avô",
+          "Bobadela",
+          "Lagares",
+          "Lagares da Beira",
+          "Lourosa",
+          "Meruge",
+          "Nogueira do Cravo",
+          "São Gião",
+          "Seixo da Beira",
+          "Travanca de Lagos",
+          "União das freguesias de Lagos da Beira e Lajeosa",
+          "União das freguesias de Penalva de Alva e São Sebastião da Feira",
+          "União das freguesias de Santa Ovaia e Vila Pouca da Beira",
+          "União das freguesias de Ervedal e Vila Franca da Beira",
+          "União das freguesias de Oliveira do Hospital e São Paio de Gramaços"
+        ]
+      },
+      {
+        "concelho": "Pampilhosa da Serra",
+        "freguesias": [
+          "Cabril",
+          "Dornelas do Zêzere",
+          "Janeiro de Baixo e Bogas de Cima",
+          "Pampilhosa da Serra",
+          "Pessegueiro",
+          "Portela do Fojo-Machio",
+          "Unhais-o-Velho",
+          "Fajão-Vidual"
+        ]
+      },
+      {
+        "concelho": "Penacova",
+        "freguesias": [
+          "Friúmes e Paradela",
+          "Lorvão",
+          "Penacova",
+          "São Pedro de Alva e São Paio de Mondego",
+          "Sazes do Lorvão",
+          "União das freguesias de Carvalho, Cercosa e Lavegadas",
+          "União das freguesias de Oliveira do Mondego e Travanca do Mondego"
+        ]
+      },
+      {
+        "concelho": "Penela",
+        "freguesias": [
+          "Espinhal",
+          "Podentes",
+          "São Miguel, Santa Eufémia e Rabaçal",
+          "Cumieira e Marmeleira"
+        ]
+      },
+      {
+        "concelho": "Soure",
+        "freguesias": [
+          "Degracias e Pombalinho",
+          "Figueiró do Campo",
+          "Granja do Ulmeiro",
+          "Gesteira e Brunhós",
+          "Soure",
+          "Tapéus",
+          "Vila Nova de Anços",
+          "Vinha da Rainha"
+        ]
+      },
+      {
+        "concelho": "Tábua",
+        "freguesias": [
+          "Carapinha",
+          "Couto",
+          "Covas e Vila Nova de Oliveirinha",
+          "Espariz e Sinde",
+          "Midões",
+          "Mouronho",
+          "Pinheiro de Coja e Meda de Mouros",
+          "São João da Boa Vista",
+          "Tábua",
+          "Ázere e Covelo"
+        ]
+      },
+      {
+        "concelho": "Vila Nova de Poiares",
+        "freguesias": [
+          "Arrifana",
+          "Lavegadas",
+          "Poiares (Santo André)",
+          "São Miguel de Poiares"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Évora",
+    "concelhos": [
+      {
+        "concelho": "Alandroal",
+        "freguesias": [
+          "Capelins (Santo António)",
+          "Santiago Maior",
+          "Terena (São Pedro)",
+          "União das freguesias de Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto)"
+        ]
+      },
+      {
+        "concelho": "Arraiolos",
+        "freguesias": [
+          "Arraiolos",
+          "Igrejinha",
+          "União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro",
+          "União das freguesias de São Gregório e Santa Justa",
+          "Vimieiro"
+        ]
+      },
+      {
+        "concelho": "Borba",
+        "freguesias": [
+          "Borba (Matriz)",
+          "Borba (São Bartolomeu)",
+          "Orada",
+          "Rio de Moinhos"
+        ]
+      },
+      {
+        "concelho": "Estremoz",
+        "freguesias": [
+          "Ameixial (Santa Vitória e São Bento)",
+          "Arcos",
+          "Glória",
+          "Évora Monte (Santa Maria)",
+          "São Bento do Cortiço e Santo Estêvão",
+          "São Domingos de Ana Loura",
+          "São Lourenço de Mamporcão e São Bento de Ana Loura",
+          "São Bento do Ameixial",
+          "Estremoz (Santa Maria e Santo André)",
+          "Veiros"
+        ]
+      },
+      {
+        "concelho": "Montemor-o-Novo",
+        "freguesias": [
+          "Cabrela",
+          "Ciborro",
+          "Cortiçóis e Lavre",
+          "Foros de Vale de Figueira",
+          "Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras",
+          "São Cristóvão"
+        ]
+      },
+      {
+        "concelho": "Mora",
+        "freguesias": [
+          "Brotas",
+          "Cabeção",
+          "Mora",
+          "Pavia"
+        ]
+      },
+      {
+        "concelho": "Mourão",
+        "freguesias": [
+          "Granja",
+          "Luz",
+          "Mourão"
+        ]
+      },
+      {
+        "concelho": "Portel",
+        "freguesias": [
+          "Alqueva",
+          "Amieira e Alqueva",
+          "Monte do Trigo",
+          "Portel",
+          "São Bartolomeu do Outeiro e Oriola",
+          "Vera Cruz"
+        ]
+      },
+      {
+        "concelho": "Redondo",
+        "freguesias": [
+          "Montoito",
+          "Redondo"
+        ]
+      },
+      {
+        "concelho": "Reguengos de Monsaraz",
+        "freguesias": [
+          "Campo e Campinho",
+          "Corval",
+          "Monsaraz",
+          "Reguengos de Monsaraz"
+        ]
+      },
+      {
+        "concelho": "Vendas Novas",
+        "freguesias": [
+          "Landeira",
+          "Vendas Novas"
+        ]
+      },
+      {
+        "concelho": "Viana do Alentejo",
+        "freguesias": [
+          "Aguiar",
+          "Alcáçovas",
+          "Viana do Alentejo"
+        ]
+      },
+      {
+        "concelho": "Vila Viçosa",
+        "freguesias": [
+          "Bencatel",
+          "Ciladas",
+          "Nossa Senhora da Conceição e São Bartolomeu",
+          "Pardais"
+        ]
+      },
+      {
+        "concelho": "Évora",
+        "freguesias": [
+          "Canaviais",
+          "Nossa Senhora da Graça do Divor",
+          "Nossa Senhora de Machede",
+          "São Bento do Mato",
+          "São Miguel de Machede",
+          "Torre de Coelheiros",
+          "União das freguesias de Bacelo e Senhora da Saúde",
+          "União das freguesias de Malagueira e Horta das Figueiras",
+          "União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe",
+          "União das freguesias de São Manços e São Vicente do Pigeiro",
+          "União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé",
+          "União das freguesias de Évora (São Mamede, Sé, São Pedro e Santo Antão)"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Faro",
+    "concelhos": [
+      {
+        "concelho": "Albufeira",
+        "freguesias": [
+          "Albufeira e Olhos de Água",
+          "Ferreiras",
+          "Guia",
+          "Paderne"
+        ]
+      },
+      {
+        "concelho": "Alcoutim",
+        "freguesias": [
+          "Giões",
+          "Martim Longo",
+          "União das freguesias de Alcoutim e Pereiro",
+          "Vaqueiros"
+        ]
+      },
+      {
+        "concelho": "Aljezur",
+        "freguesias": [
+          "Aljezur",
+          "Bordeira",
+          "Odeceixe",
+          "Rogil"
+        ]
+      },
+      {
+        "concelho": "Castro Marim",
+        "freguesias": [
+          "Altura",
+          "Azinhal",
+          "Castro Marim",
+          "Odeleite"
+        ]
+      },
+      {
+        "concelho": "Faro",
+        "freguesias": [
+          "União das freguesias de Faro (Sé e São Pedro)",
+          "União das freguesias de Conceição e Estoi",
+          "Montenegro",
+          "Santa Bárbara de Nexe"
+        ]
+      },
+      {
+        "concelho": "Lagoa",
+        "freguesias": [
+          "Estômbar e Parchal",
+          "Ferragudo",
+          "Lagoa e Carvoeiro",
+          "Porches",
+          "União das freguesias de Lagoa e Carvoeiro"
+        ]
+      },
+      {
+        "concelho": "Lagos",
+        "freguesias": [
+          "Bensafrim e Barão de São João",
+          "Luz",
+          "Odiáxere",
+          "São Gonçalo de Lagos"
+        ]
+      },
+      {
+        "concelho": "Loulé",
+        "freguesias": [
+          "Almancil",
+          "Alte",
+          "Ameixial",
+          "Boliqueime",
+          "Salir",
+          "Quarteira",
+          "União das freguesias de Querença, Tôr e Benafim",
+          "União das freguesias de S. Clemente e São Sebastião"
+        ]
+      },
+      {
+        "concelho": "Monchique",
+        "freguesias": [
+          "Alferce",
+          "Marmelete",
+          "Monchique"
+        ]
+      },
+      {
+        "concelho": "Olhão",
+        "freguesias": [
+          "Moncarapacho e Fuseta",
+          "Olhão",
+          "Pechão",
+          "Quelfes"
+        ]
+      },
+      {
+        "concelho": "Portimão",
+        "freguesias": [
+          "Alvor",
+          "Mexilhoeira Grande",
+          "Portimão"
+        ]
+      },
+      {
+        "concelho": "Silves",
+        "freguesias": [
+          "São Bartolomeu de Messines",
+          "São Marcos da Serra",
+          "Silves",
+          "União das freguesias de Alcantarilha e Pêra",
+          "União das freguesias de Algoz e Tunes",
+          "União das freguesias de Armação de Pêra"
+        ]
+      },
+      {
+        "concelho": "São Brás de Alportel",
+        "freguesias": [
+          "São Brás de Alportel"
+        ]
+      },
+      {
+        "concelho": "Tavira",
+        "freguesias": [
+          "Cachopo",
+          "Santa Catarina da Fonte do Bispo",
+          "Santa Luzia",
+          "Santo Estêvão",
+          "Conceição e Cabanas de Tavira",
+          "Luz de Tavira e Santo Estevão",
+          "Tavira (Santa Maria e Santiago)"
+        ]
+      },
+      {
+        "concelho": "Vila Real de Santo António",
+        "freguesias": [
+          "Monte Gordo",
+          "Vila Nova de Cacela",
+          "Vila Real de Santo António"
+        ]
+      },
+      {
+        "concelho": "Vila do Bispo",
+        "freguesias": [
+          "Barão de São Miguel",
+          "Budens",
+          "Sagres",
+          "Vila do Bispo e Raposeira"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Guarda",
+    "concelhos": [
+      {
+        "concelho": "Aguiar da Beira",
+        "freguesias": [
+          "Carapito",
+          "Cortiçada",
+          "Dornelas",
+          "Eirado",
+          "Forninhos",
+          "Pena Verde",
+          "Pinheiro",
+          "União das freguesias de Aguiar da Beira e Coruche",
+          "União das freguesias de Sequeiros e Gradiz",
+          "União das freguesias de Souto de Aguiar da Beira e Valverde"
+        ]
+      },
+      {
+        "concelho": "Almeida",
+        "freguesias": [
+          "Almeida",
+          "Castelo Bom",
+          "Freineda",
+          "Freixo",
+          "Malhada Sorda",
+          "Nave de Haver",
+          "São Pedro de Rio Seco",
+          "União das freguesias de Amoreira, Parada e Cabreira",
+          "União das freguesias de Azinhal, Peva e Valverde",
+          "União das freguesias de Castelo Mendo, Ade, Monteperobolso e Mesquitela",
+          "União das freguesias de Junça e Naves",
+          "União das freguesias de Leomil, Mido, Senouras e Aldeia Nova",
+          "União das freguesias de Malpartida e Vale de Coelha",
+          "União das freguesias de Miuzela e Porto de Ovelha",
+          "Vale da Mula",
+          "Vilar Formoso"
+        ]
+      },
+      {
+        "concelho": "Celorico da Beira",
+        "freguesias": [
+          "Baraçal",
+          "Carrapichana",
+          "Casas do Soeiro",
+          "Forno Telheiro",
+          "Lajeosa do Mondego",
+          "Linhares",
+          "Maçal do Chão",
+          "Mesquitela",
+          "Minhocal",
+          "Prados",
+          "Ratoeira",
+          "União das freguesias de Açores e Velosa",
+          "União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego",
+          "União das freguesias de Cortiçô da Serra, Vide entre Vinhas e Salgueirais",
+          "União das freguesias de Rapa e Cadafaz",
+          "Vale de Azares"
+        ]
+      },
+      {
+        "concelho": "Figueira de Castelo Rodrigo",
+        "freguesias": [
+          "Algodres",
+          "Almofala e Escarigo",
+          "Castelo Rodrigo",
+          "Cinco Vilas e Reigada",
+          "Colmeal e Vilar Torpim",
+          "Escalhão",
+          "Figueira de Castelo Rodrigo",
+          "Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia",
+          "Mata de Lobos"
+        ]
+      },
+      {
+        "concelho": "Fornos de Algodres",
+        "freguesias": [
+          "Casal Vasco",
+          "Cortiçô e Vila Chã",
+          "Figueiró da Granja",
+          "Fornos de Algodres",
+          "Infias",
+          "Juncais, Vila Ruiva e Vila Soeiro do Chão",
+          "Maceira",
+          "Muxagata",
+          "Queiriz",
+          "Algodres"
+        ]
+      },
+      {
+        "concelho": "Gouveia",
+        "freguesias": [
+          "Aldeias e Mangualde da Serra",
+          "Arcozelo",
+          "Cativelos",
+          "Folgosinho",
+          "Nabaínhos",
+          "Paços da Serra",
+          "Ribamondego",
+          "Rio Torto e Lagarinhos",
+          "São Paio",
+          "Vila Cortês da Serra",
+          "Vila Franca da Serra",
+          "Vila Nova de Tazem",
+          "União das freguesias de Gouveia (São Pedro e São Julião)",
+          "União das freguesias de Melo e Nabais",
+          "União das freguesias de Moimenta da Serra e Vinhó"
+        ]
+      },
+      {
+        "concelho": "Guarda",
+        "freguesias": [
+          "Adão",
+          "Aldeia do Bispo",
+          "Aldeia Viçosa",
+          "Arrifana",
+          "Casal de Cinza",
+          "Panóias de Cima",
+          "Pega",
+          "Porto da Carne",
+          "Pousade",
+          "Santana da Azinha",
+          "Sobral da Serra",
+          "Vela",
+          "União das freguesias de Albardo, Quintã e Vela",
+          "União das freguesias de Antas de Penedono e Covelas",
+          "União das freguesias de Corujeira e Trinta",
+          "União das freguesias de Faia e Vale de Estrela",
+          "União das freguesias de Gonçalo Bocas e Vale de Espinho",
+          "União das freguesias de Guarda (São Miguel, Santa Maria e São Pedro)",
+          "União das freguesias de Jarmelo São Miguel, Jarmelo São Pedro e Arnas",
+          "União das freguesias de Maçainhas, Pousade e Vila Soeiro"
+        ]
+      },
+      {
+        "concelho": "Manteigas",
+        "freguesias": [
+          "Manteigas (Santa Maria)",
+          "Manteigas (São Pedro)",
+          "Sameiro",
+          "Vale de Amoreira"
+        ]
+      },
+      {
+        "concelho": "Mêda",
+        "freguesias": [
+          "Aveloso",
+          "Barreira",
+          "Casteição",
+          "Coriscada",
+          "Longroiva",
+          "Marialva",
+          "Mêda, Outeiro de Gatos e Fonte Longa",
+          "Poço do Canto",
+          "Rabaçal",
+          "União das freguesias de Ranhados, Relva e São Gabriel"
+        ]
+      },
+      {
+        "concelho": "Pinhel",
+        "freguesias": [
+          "Alto do Lobo",
+          "Atalaia",
+          "Azevo",
+          "Bogalhal",
+          "Ervedosa",
+          "Freixedas",
+          "Gouveias",
+          "Lamegal",
+          "Lameiras",
+          "Manigoto",
+          "Pala",
+          "Pereiro",
+          "Pínzio",
+          "Póvoa de El-Rei",
+          "Safurdão",
+          "São Martinho",
+          "Sorval",
+          "Souropires",
+          "Trancozelos",
+          "Valbom/Boi",
+          "Vale do Coa",
+          "Vascoveiro",
+          "Pinhel"
+        ]
+      },
+      {
+        "concelho": "Sabugal",
+        "freguesias": [
+          "Águas Belas",
+          "Aldeia da Ribeira, Vilar Maior e Badamalos",
+          "Aldeia do Bispo, Águas, Mula e Carvalhal",
+          "Aldeia Velha",
+          "Alfaiates",
+          "Bendada",
+          "Bismula",
+          "Casteleiro",
+          "Cerdeira",
+          "Fóios",
+          "Malcata",
+          "Penalobo",
+          "Pousafoles do Bispo, Pena Lobo e Lomba",
+          "Quadrazais",
+          "Quintas de São Bartolomeu",
+          "Rapoula do Côa",
+          "Rebolosa",
+          "Rendo",
+          "Vale das Éguas",
+          "União das freguesias de Sabugal e Aldeia de Santo António",
+          "União das freguesias de Santo Estêvão e Moita",
+          "União das freguesias de Seixo do Côa e Vale Longo",
+          "União das freguesias de Sortelha e Lajeosa",
+          "União das freguesias de Souto e Valongo do Côa",
+          "União das freguesias de Vila Boa e Rendo",
+          "Vila do Touro"
+        ]
+      },
+      {
+        "concelho": "Seia",
+        "freguesias": [
+          "Alvoco da Serra",
+          "Carragosela e Várzea de Meruge",
+          "Girabolhos",
+          "Loriga",
+          "Paranhos",
+          "Pinhanços",
+          "Sabugueiro",
+          "Sameice e Santa Eulália",
+          "Santa Comba",
+          "Santiago",
+          "Sazes da Beira",
+          "Seia, São Romão e Lapa dos Dinheiros",
+          "Teixeira",
+          "Torrozelo e Folhadosa",
+          "Tourais e Lajes",
+          "Travancinha",
+          "Valezim",
+          "Vide e Cabeça",
+          "União das freguesias de Carvalhal da Serra e Sandomil"
+        ]
+      },
+      {
+        "concelho": "Trancoso",
+        "freguesias": [
+          "Aldeia Nova",
+          "Castanheira",
+          "Cogula",
+          "Cótimos",
+          "Fiães",
+          "Granja",
+          "Guilheiro",
+          "Moimentinha",
+          "Moreira de Rei",
+          "Palhais",
+          "Póvoa do Concelho",
+          "Reboleiro",
+          "Rio de Mel",
+          "São Martinho",
+          "São Pedro, Santa Maria e Vila Garcia",
+          "Terrenho",
+          "Tamanhos",
+          "Torres",
+          "Vale do Seixo",
+          "Vila Franca das Naves"
+        ]
+      },
+      {
+        "concelho": "Vila Nova de Foz Côa",
+        "freguesias": [
+          "Almendra",
+          "Castelo Melhor",
+          "Cedovim",
+          "Chãs",
+          "Custóias",
+          "Freixo de Numão",
+          "Horta",
+          "Muxagata",
+          "Numão",
+          "Santa Comba",
+          "Sebadelhe",
+          "Seixas",
+          "Touça",
+          "Vila Nova de Foz Côa"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Leiria",
+    "concelhos": [
+      {
+        "concelho": "Alcobaça",
+        "freguesias": [
+          "Alfeizerão",
+          "Aljubarrota",
+          "Benedita",
+          "Bárrio",
+          "Cela",
+          "Maiorga",
+          "São Martinho do Porto",
+          "Turquel",
+          "União das freguesias de Alcobaça e Vestiaria",
+          "União das freguesias de Coz, Alpedriz e Montes",
+          "União das freguesias de Pataias e Martingança",
+          "Vimeiro",
+          "Évora de Alcobaça"
+        ]
+      },
+      {
+        "concelho": "Alvaiázere",
+        "freguesias": [
+          "Almoster",
+          "Alvaiázere",
+          "Maçãs de Dona Maria",
+          "Pelmá",
+          "Pussos São Pedro"
+        ]
+      },
+      {
+        "concelho": "Ansião",
+        "freguesias": [
+          "Alvorge",
+          "Ansião",
+          "Avelar",
+          "Chão de Couce",
+          "Pousaflores",
+          "Santiago da Guarda"
+        ]
+      },
+      {
+        "concelho": "Batalha",
+        "freguesias": [
+          "Batalha",
+          "Golpilheira",
+          "Reguengo do Fetal",
+          "São Mamede"
+        ]
+      },
+      {
+        "concelho": "Bombarral",
+        "freguesias": [
+          "Carvalhal",
+          "Pó",
+          "Roliça",
+          "União das freguesias do Bombarral e Vale Covo"
+        ]
+      },
+      {
+        "concelho": "Caldas da Rainha",
+        "freguesias": [
+          "A dos Francos",
+          "Alvorninha",
+          "Carvalhal Benfeito",
+          "Foz do Arelho",
+          "Landal",
+          "Nadadouro",
+          "Salir de Matos",
+          "Santa Catarina",
+          "União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório",
+          "União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro",
+          "União das freguesias de Tornada e Salir do Porto",
+          "Vidais"
+        ]
+      },
+      {
+        "concelho": "Castanheira de Pêra",
+        "freguesias": [
+          "União das freguesias de Castanheira de Pêra e Coentral"
+        ]
+      },
+      {
+        "concelho": "Figueiró dos Vinhos",
+        "freguesias": [
+          "Aguda",
+          "Arega",
+          "Campelo",
+          "Figueiró dos Vinhos e Bairradas"
+        ]
+      },
+      {
+        "concelho": "Leiria",
+        "freguesias": [
+          "Amor",
+          "Arrabal",
+          "Bajouca",
+          "Caranguejeira",
+          "Coimbrão",
+          "Colmeias e Memória",
+          "Leiria, Pousos, Barreira e Cortes",
+          "Marrazes e Barosa",
+          "Maceira",
+          "Milagres",
+          "Monte Real e Carvide",
+          "Monte Redondo e Carreira",
+          "Parceiros e Azoia",
+          "Regueira de Pontes",
+          "Santa Catarina da Serra e Chainça",
+          "Santa Eufémia e Boa Vista",
+          "Souto da Carpalhosa e Ortigosa"
+        ]
+      },
+      {
+        "concelho": "Marinha Grande",
+        "freguesias": [
+          "Marinha Grande",
+          "Moita",
+          "Vieira de Leiria"
+        ]
+      },
+      {
+        "concelho": "Nazaré",
+        "freguesias": [
+          "Famalicão",
+          "Nazaré",
+          "Valado dos Frades"
+        ]
+      },
+      {
+        "concelho": "Pedrógão Grande",
+        "freguesias": [
+          "Graça",
+          "Pedrógão Grande",
+          "Vila Facaia"
+        ]
+      },
+      {
+        "concelho": "Peniche",
+        "freguesias": [
+          "Atouguia da Baleia",
+          "Ferrel",
+          "Peniche"
+        ]
+      },
+      {
+        "concelho": "Pombal",
+        "freguesias": [
+          "Abiul",
+          "Almagreira",
+          "Carriço",
+          "Louriçal",
+          "Pelariga",
+          "Pombal",
+          "Redinha",
+          "Vermoil",
+          "Vila Cã",
+          "União das freguesias de Guia, Ilha e Mata Mourisca",
+          "União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze"
+        ]
+      },
+      {
+        "concelho": "Porto de Mós",
+        "freguesias": [
+          "Alqueidão da Serra",
+          "Alvados e Alcaria",
+          "Arrimal e Mendiga",
+          "Calvaria de Cima",
+          "Juncal",
+          "Mira de Aire",
+          "Pedreiras",
+          "Porto de Mós - São João Baptista e São Pedro",
+          "Serro Ventoso"
+        ]
+      },
+      {
+        "concelho": "Óbidos",
+        "freguesias": [
+          "A dos Negros",
+          "Amoreira",
+          "Gaeiras",
+          "Olho Marinho",
+          "Santa Maria, São Pedro e Sobral da Lagoa",
+          "Usseira",
+          "Vau"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Lisboa",
+    "concelhos": [
+      {
+        "concelho": "Alenquer",
+        "freguesias": [
+          "Carnota",
+          "Meca",
+          "Olhalvo",
+          "Ota",
+          "União das freguesias de Abrigada e Cabanas de Torres",
+          "União das freguesias de Aldeia Galega da Merceana e Aldeia Gavinha",
+          "União das freguesias de Alenquer (Santo Estêvão e Triana)",
+          "União das freguesias de Carregado e Cadafais",
+          "União das freguesias de Ribafria e Pereiro de Palhacana",
+          "Ventosa",
+          "Vila Verde dos Francos"
+        ]
+      },
+      {
+        "concelho": "Amadora",
+        "freguesias": [
+          "Alfragide",
+          "Encosta do Sol",
+          "Falagueira-Venda Nova",
+          "Mina de Água",
+          "Venteira",
+          "Águas Livres"
+        ]
+      },
+      {
+        "concelho": "Arruda dos Vinhos",
+        "freguesias": [
+          "Arranhó",
+          "Arruda dos Vinhos",
+          "Cardosas",
+          "S. Tiago dos Velhos"
+        ]
+      },
+      {
+        "concelho": "Azambuja",
+        "freguesias": [
+          "Alcoentre",
+          "Aveiras de Baixo",
+          "Aveiras de Cima",
+          "Azambuja",
+          "União das freguesias de Manique do Intendente, Vila Nova de São Pedro e Maçussa",
+          "Vale do Paraíso",
+          "Vila Nova da Rainha"
+        ]
+      },
+      {
+        "concelho": "Cadaval",
+        "freguesias": [
+          "Alguber",
+          "Peral",
+          "União das freguesias de Lamas e Cercal",
+          "União das freguesias de Painho e Figueiros",
+          "União das freguesias do Cadaval e Pêro Moniz",
+          "Vermelha",
+          "Vilar"
+        ]
+      },
+      {
+        "concelho": "Cascais",
+        "freguesias": [
+          "Alcabideche",
+          "São Domingos de Rana",
+          "União das freguesias de Carcavelos e Parede",
+          "União das freguesias de Cascais e Estoril"
+        ]
+      },
+      {
+        "concelho": "Lisboa",
+        "freguesias": [
+          "Ajuda",
+          "Alcântara",
+          "Alvalade",
+          "Areeiro",
+          "Arroios",
+          "Avenidas Novas",
+          "Beato",
+          "Belém",
+          "Benfica",
+          "Campo de Ourique",
+          "Campolide",
+          "Carnide",
+          "Estrela",
+          "Lumiar",
+          "Marvila",
+          "Misericórdia",
+          "Olivais",
+          "Parque das Nações",
+          "Penha de França",
+          "Santa Clara",
+          "Santa Maria Maior",
+          "Santo António",
+          "São Domingos de Benfica",
+          "São Vicente"
+        ]
+      },
+      {
+        "concelho": "Loures",
+        "freguesias": [
+          "Bucelas",
+          "Fanhões",
+          "Loures",
+          "Lousa",
+          "Moscavide e Portela",
+          "Sacavém e Prior Velho",
+          "Santa Iria de Azoia, São João da Talha e Bobadela",
+          "Santo Antão e São Julião do Tojal",
+          "Santo António dos Cavaleiros e Frielas"
+        ]
+      },
+      {
+        "concelho": "Lourinhã",
+        "freguesias": [
+          "Lourinhã e Atalaia",
+          "Miragaia e Marteleira",
+          "Moita dos Ferreiros",
+          "Reguengo Grande",
+          "Ribamar",
+          "São Bartolomeu dos Galegos e Moledo",
+          "Vimeiro"
+        ]
+      },
+      {
+        "concelho": "Mafra",
+        "freguesias": [
+          "Encarnação",
+          "Ericeira",
+          "Mafra",
+          "Malveira e São Miguel de Alcainça",
+          "Milharado",
+          "Santo Isidoro",
+          "Sobral da Abelheira",
+          "Azueira e Sobral da Abelheira",
+          "Carvoeira",
+          "Enxara do Bispo, Gradil e Vila Franca do Rosário",
+          "Igreja Nova e Cheleiros",
+          "Santo Estêvão das Galés",
+          "União das freguesias de Malveira e São Miguel de Alcainça"
+        ]
+      },
+      {
+        "concelho": "Odivelas",
+        "freguesias": [
+          "Odivelas",
+          "Pontinha e Famões",
+          "Póvoa de Santo Adrião e Olival Basto",
+          "Ramada e Caneças"
+        ]
+      },
+      {
+        "concelho": "Oeiras",
+        "freguesias": [
+          "Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",
+          "Barcarena",
+          "Carnaxide e Queijas",
+          "Oeiras e São Julião da Barra, Paço de Arcos e Caxias",
+          "Porto Salvo"
+        ]
+      },
+      {
+        "concelho": "Sintra",
+        "freguesias": [
+          "Algueirão-Mem Martins",
+          "Casal de Cambra",
+          "Colares",
+          "Rio de Mouro",
+          "São João das Lampas e Terrugem",
+          "Almargem do Bispo, Pêro Pinheiro e Montelavar",
+          "Cacém e São Marcos",
+          "Massamá e Monte Abraão",
+          "Queluz e Belas",
+          "União das freguesias de Agualva e Mira-Sintra",
+          "União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar"
+        ]
+      },
+      {
+        "concelho": "Sobral de Monte Agraço",
+        "freguesias": [
+          "Sobral de Monte Agraço",
+          "Santo Quintino",
+          "Sapataria"
+        ]
+      },
+      {
+        "concelho": "Torres Vedras",
+        "freguesias": [
+          "Campelos e Outeiro da Cabeça",
+          "Carvoeira e Carmões",
+          "Dois Portos e Runa",
+          "Freiria",
+          "Maxial e Monte Redondo",
+          "Ponte do Rol",
+          "Ramalhal",
+          "São Pedro da Cadeira",
+          "Silveira",
+          "Turcifal",
+          "Ventosa",
+          "União das freguesias de A dos Cunhados e Maceira",
+          "União das freguesias de Campelos e Outeiro da Cabeça",
+          "União das freguesias de Carvoeira e Carmões",
+          "União das freguesias de Maxial e Monte Redondo",
+          "União das freguesias de São Pedro da Cadeira e Figueira do Guincho",
+          "União das freguesias de Silveira e São Pedro da Cadeira",
+          "Santa Maria, São Pedro e Matacães",
+          "São Pedro e Santiago e Santa Maria do Castelo e São Miguel"
+        ]
+      },
+      {
+        "concelho": "Vila Franca de Xira",
+        "freguesias": [
+          "Alhandra, São João dos Montes e Calhandriz",
+          "Alverca do Ribatejo e Sobralinho",
+          "Castanheira do Ribatejo e Cachoeiras",
+          "Póvoa de Santa Iria e Forte da Casa",
+          "Vialonga",
+          "Vila Franca de Xira"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Portalegre",
+    "concelhos": [
+      {
+        "concelho": "Alter do Chão",
+        "freguesias": [
+          "Alter do Chão",
+          "Chancelaria",
+          "Cunheira",
+          "Seda"
+        ]
+      },
+      {
+        "concelho": "Arronches",
+        "freguesias": [
+          "Assunção",
+          "Esperança",
+          "Mosteiros"
+        ]
+      },
+      {
+        "concelho": "Avis",
+        "freguesias": [
+          "Aldeia Velha",
+          "Avis",
+          "Ervedal",
+          "Figueira e Barros",
+          "União das freguesias de Alcórrego e Maranhão",
+          "União das freguesias de Benavila e Valongo"
+        ]
+      },
+      {
+        "concelho": "Campo Maior",
+        "freguesias": [
+          "Nossa Senhora da Expectação",
+          "Nossa Senhora da Graça dos Degolados",
+          "São João Baptista"
+        ]
+      },
+      {
+        "concelho": "Castelo de Vide",
+        "freguesias": [
+          "Nossa Senhora da Graça de Póvoa e Meadas",
+          "Santa Maria da Devesa",
+          "Santiago Maior",
+          "São João Baptista"
+        ]
+      },
+      {
+        "concelho": "Crato",
+        "freguesias": [
+          "Aldeia da Mata",
+          "Gáfete",
+          "Monte da Pedra",
+          "União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso"
+        ]
+      },
+      {
+        "concelho": "Elvas",
+        "freguesias": [
+          "Assunção, Ajuda, Salvador e Santo Ildefonso",
+          "Caia, São Pedro e Alcáçova",
+          "Santa Eulália",
+          "São Brás e São Lourenço",
+          "São Vicente e Ventosa",
+          "União das freguesias de Barbacena e Vila Fernando",
+          "União das freguesias de Terrugem e Vila Boim"
+        ]
+      },
+      {
+        "concelho": "Fronteira",
+        "freguesias": [
+          "Cabeço de Vide",
+          "Fronteira",
+          "São Saturnino"
+        ]
+      },
+      {
+        "concelho": "Gavião",
+        "freguesias": [
+          "Belver",
+          "Comenda",
+          "Margem",
+          "União das freguesias de Gavião e Atalaia"
+        ]
+      },
+      {
+        "concelho": "Marvão",
+        "freguesias": [
+          "Beirã",
+          "Santa Maria de Marvão",
+          "Santo António das Areias",
+          "São Salvador da Aramenha"
+        ]
+      },
+      {
+        "concelho": "Monforte",
+        "freguesias": [
+          "Assumar",
+          "Monforte",
+          "Santo Aleixo",
+          "Vaiamonte"
+        ]
+      },
+      {
+        "concelho": "Nisa",
+        "freguesias": [
+          "Alpalhão",
+          "Arez e Amieira do Tejo",
+          "Espírito Santo, Nossa Senhora da Graça e São Simão",
+          "Montalvão",
+          "Santana",
+          "São Matias",
+          "Tolosa"
+        ]
+      },
+      {
+        "concelho": "Ponte de Sor",
+        "freguesias": [
+          "Foros de Arrão",
+          "Galveias",
+          "Longomel",
+          "Montargil",
+          "Ponte de Sor, Tramaga e Vale de Açor"
+        ]
+      },
+      {
+        "concelho": "Portalegre",
+        "freguesias": [
+          "Alagoa",
+          "Fortios",
+          "Reguengo e São Julião",
+          "Ribeira de Nisa e Carreiras",
+          "Sé e São Lourenço",
+          "Urra"
+        ]
+      },
+      {
+        "concelho": "Sousel",
+        "freguesias": [
+          "Cano",
+          "Casa Branca",
+          "Santo Amaro",
+          "Sousel"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Porto",
+    "concelhos": [
+      {
+        "concelho": "Amarante",
+        "freguesias": [
+          "Ansiães",
+          "Candemil",
+          "Fregim",
+          "Fridão",
+          "Gondar",
+          "Gouveia (São Simão)",
+          "Jazente",
+          "Lomba",
+          "Louredo",
+          "Lufrei",
+          "Mancelos",
+          "Padronelo",
+          "Rebordelo",
+          "Salvador do Monte",
+          "Telões",
+          "Travanca",
+          "União das freguesias de Aboadela, Sanche e Várzea",
+          "União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão",
+          "União das freguesias de Bustelo, Carneiro e Carvalho de Rei",
+          "União das freguesias de Figueiró (Santiago e Santa Cristina)",
+          "União das freguesias de Freixo de Cima e de Baixo",
+          "União das freguesias de Olo e Canadelo",
+          "União das freguesias de Vila Garcia, Aboim e Chapa",
+          "Vila Caiz",
+          "Vila Chã do Marão",
+          "Vila Meã"
+        ]
+      },
+      {
+        "concelho": "Baião",
+        "freguesias": [
+          "Frende",
+          "Gestaçô",
+          "Gove",
+          "Grilo",
+          "Loivos do Monte",
+          "Santa Marinha do Zêzere",
+          "União das freguesias de Ancede e Ribadouro",
+          "União das freguesias de Baião (Santa Leocádia) e Mesquinhata",
+          "União das freguesias de Campelo e Ovil",
+          "União das freguesias de Loivos da Ribeira e Tresouras",
+          "União das freguesias de Santa Cruz do Douro e São Tomé de Covelas",
+          "União das freguesias de Teixeira e Teixeiró",
+          "Valadares",
+          "Viariz"
+        ]
+      },
+      {
+        "concelho": "Felgueiras",
+        "freguesias": [
+          "Aião",
+          "Airães",
+          "Friande",
+          "Idães",
+          "Jugueiros",
+          "Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",
+          "Pedreira, Rande e Sernande",
+          "Penacova",
+          "Pombeiro de Ribavizela",
+          "Refontoura",
+          "Regilde",
+          "Sendim",
+          "Torrados e Sousa",
+          "Unhão e Lordelo",
+          "Vila Cova da Lixa e Borba de Godim",
+          "Macieira da Lixa e Caramos",
+          "Vila Fria e Vizela (São Jorge)",
+          "União das freguesias de Vila Verde e Santão"
+        ]
+      },
+      {
+        "concelho": "Gondomar",
+        "freguesias": [
+          "Baguim do Monte (Rio Tinto)",
+          "Fânzeres e São Pedro da Cova",
+          "Foz do Sousa e Covelo",
+          "Gondomar (São Cosme), Valbom e Jovim",
+          "Lomba",
+          "Melres e Medas",
+          "Rio Tinto"
+        ]
+      },
+      {
+        "concelho": "Lousada",
+        "freguesias": [
+          "Aveleda",
+          "Caíde de Rei",
+          "Cristelos, Boim e Ordem",
+          "Figueiras e Covas",
+          "Lodares",
+          "Lousada (Cristelos, Boim e Ordem)",
+          "Macieira",
+          "Meinedo",
+          "Nespereira e Casais",
+          "Nevogilde",
+          "Sousela",
+          "Silvares, Pias, Nogueira e Alvarenga",
+          "Torno",
+          "União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida)",
+          "Vilar do Torno e Alentém"
+        ]
+      },
+      {
+        "concelho": "Maia",
+        "freguesias": [
+          "Águas Santas",
+          "Castêlo da Maia",
+          "Cidade da Maia",
+          "Folgosa",
+          "Milheirós",
+          "Moreira",
+          "Nogueira e Silva Escura",
+          "Pedrouços",
+          "São Pedro Fins",
+          "Vermoim",
+          "Vila Nova da Telha"
+        ]
+      },
+      {
+        "concelho": "Marco de Canaveses",
+        "freguesias": [
+          "Alpendorada, Várzea e Torrão",
+          "Ariz",
+          "Avessadas e Rosém",
+          "Banho e Carvalhosa",
+          "Constance",
+          "Freixo",
+          "Magrelos",
+          "Maureles",
+          "Paredes de Viadores e Manhuncelos",
+          "Penhalonga e Paços de Gaiolo",
+          "Sande e São Lourenço do Douro",
+          "São Nicolau",
+          "Sobretâmega",
+          "Soalhães",
+          "Tabuado",
+          "Toutosa",
+          "Várzea da Ovelha e Aliviada",
+          "Vila Boa de Quires e Maureles",
+          "Vila Boa do Bispo"
+        ]
+      },
+      {
+        "concelho": "Matosinhos",
+        "freguesias": [
+          "Custóias, Leça do Balio e Guifões",
+          "Matosinhos e Leça da Palmeira",
+          "Perafita, Lavra e Santa Cruz do Bispo",
+          "São Mamede de Infesta e Senhora da Hora"
+        ]
+      },
+      {
+        "concelho": "Paredes",
+        "freguesias": [
+          "Aguiar de Sousa",
+          "Astromil",
+          "Baltar",
+          "Beire",
+          "Cete",
+          "Cristelo",
+          "Duas Igrejas",
+          "Gandra",
+          "Lordelo",
+          "Louredo",
+          "Parada de Todeia",
+          "Rebordosa",
+          "Recarei",
+          "Sobrosa",
+          "Vandoma",
+          "Vilela",
+          "União das freguesias de Castelões de Cepeda e Mouriz",
+          "União das freguesias de Madalena e Santiago de Besteiros",
+          "União das freguesias de Recarei e Gandra"
+        ]
+      },
+      {
+        "concelho": "Paços de Ferreira",
+        "freguesias": [
+          "Carvalhosa",
+          "Eiriz",
+          "Ferreira",
+          "Figueiró",
+          "Freamunde",
+          "Meixomil",
+          "Penamaior",
+          "Raimonda",
+          "Seroa",
+          "Paços de Ferreira",
+          "Sanfins Lamoso e Codessos",
+          "Sanfins de Ferreira",
+          "Arreigada"
+        ]
+      },
+      {
+        "concelho": "Penafiel",
+        "freguesias": [
+          "Abragão",
+          "Boelhe",
+          "Bustelo",
+          "Cabeça Santa",
+          "Canelas",
+          "Capela",
+          "Castelões",
+          "Croca",
+          "Duas Igrejas",
+          "Eja",
+          "Galegos",
+          "Irivo",
+          "Luzim e Vila Cova",
+          "Oldrões",
+          "Paço de Sousa",
+          "Penafiel",
+          "Perozelo",
+          "Rans",
+          "Recezinhos (São Martinho)",
+          "Recezinhos (São Mamede)",
+          "Rio de Moinhos",
+          "São Mamede de Recesinhos",
+          "Sebolido",
+          "Termas de São Vicente",
+          "Valpedre"
+        ]
+      },
+      {
+        "concelho": "Porto",
+        "freguesias": [
+          "União das freguesias de Aldoar, Foz do Douro e Nevogilde",
+          "Bonfim",
+          "Campanhã",
+          "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+          "União das freguesias de Lordelo do Ouro e Massarelos",
+          "Paranhos",
+          "Ramalde"
+        ]
+      },
+      {
+        "concelho": "Póvoa de Varzim",
+        "freguesias": [
+          "Aver-o-Mar, Amorim e Terroso",
+          "Balazar",
+          "Estela",
+          "Laundos",
+          "Navais",
+          "Póvoa de Varzim, Beiriz e Argivai",
+          "Agro-Velho e Agro Velho"
+        ]
+      },
+      {
+        "concelho": "Santo Tirso",
+        "freguesias": [
+          "Agrela",
+          "Água Longa",
+          "Aves",
+          "Monte Córdova",
+          "Negrelos (São Tomé)",
+          "Palmeira",
+          "Roriz",
+          "Burgães",
+          "Carreira",
+          "Guimarei",
+          "Lama",
+          "Rebordões",
+          "Reguenga",
+          "Roriz",
+          "Areias, Sequeiró, Lama e Palmeira",
+          "Vila Nova do Campo",
+          "União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães"
+        ]
+      },
+      {
+        "concelho": "Trofa",
+        "freguesias": [
+          "Bougado (São Martinho e Santiago)",
+          "Covelas",
+          "Coronado (São Mamede e São Romão)",
+          "Guidões",
+          "Muro"
+        ]
+      },
+      {
+        "concelho": "Valongo",
+        "freguesias": [
+          "Alfena",
+          "Ermesinde",
+          "Valongo",
+          "Campo e Sobrado"
+        ]
+      },
+      {
+        "concelho": "Vila Nova de Gaia",
+        "freguesias": [
+          "Arcozelo",
+          "Avintes",
+          "Canelas",
+          "Canidelo",
+          "Madalena",
+          "Oliveira do Douro",
+          "São Félix da Marinha",
+          "União das freguesias de Grijó e Sermonde",
+          "União das freguesias de Gulpilhares e Valadares",
+          "União das freguesias de Mafamude e Vilar do Paraíso",
+          "União das freguesias de Pedroso e Seixezelo",
+          "União das freguesias de Sandim, Olival, Lever e Crestuma",
+          "União das freguesias de Santa Marinha e São Pedro da Afurada",
+          "União das freguesias de Serzedo e Perosinho",
+          "Vilar de Andorinho"
+        ]
+      },
+      {
+        "concelho": "Vila do Conde",
+        "freguesias": [
+          "Árvore",
+          "Aveleda",
+          "Azurara",
+          "Bagunte, Ferreiró, Outeiro Maior e Parada",
+          "Beiriz",
+          "Fajozes",
+          "Fornelo e Vairão",
+          "Gião",
+          "Guilhabreu",
+          "Junqueira",
+          "Labruge",
+          "Macieira da Maia",
+          "Malta e Canidelo",
+          "Mindelo",
+          "Modivas",
+          "Retorta e Tougues",
+          "Rio Mau e Arcos",
+          "Vila Chã",
+          "Vila do Conde",
+          "Vilar e Mosteiró"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Santarém",
+    "concelhos": [
+      {
+        "concelho": "Abrantes",
+        "freguesias": [
+          "Bemposta",
+          "Carvalhal",
+          "Fontes",
+          "Martinchel",
+          "Mouriscas",
+          "Pego",
+          "Rio de Moinhos",
+          "União das freguesias de Abrantes (São Vicente e São João) e Alferrarede",
+          "União das freguesias de Aldeia do Mato e Souto",
+          "União das freguesias de Alvega e Concavada",
+          "União das freguesias de São Facundo e Vale das Mós",
+          "União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo"
+        ]
+      },
+      {
+        "concelho": "Alcanena",
+        "freguesias": [
+          "Bugalhos",
+          "Minde",
+          "Moitas Venda",
+          "Monsanto",
+          "Serra de Santo António",
+          "União das freguesias de Alcanena e Vila Moreira",
+          "União das freguesias de Malhou, Louriceira e Espinheiro"
+        ]
+      },
+      {
+        "concelho": "Almeirim",
+        "freguesias": [
+          "Almeirim",
+          "Benfica do Ribatejo",
+          "Fazendas de Almeirim",
+          "Raposa"
+        ]
+      },
+      {
+        "concelho": "Alpiarça",
+        "freguesias": [
+          "Alpiarça"
+        ]
+      },
+      {
+        "concelho": "Benavente",
+        "freguesias": [
+          "Barrosa",
+          "Benavente",
+          "Samora Correia",
+          "Santo Estêvão"
+        ]
+      },
+      {
+        "concelho": "Cartaxo",
+        "freguesias": [
+          "Pontével",
+          "União das freguesias de Ereira e Lapa",
+          "União das freguesias do Cartaxo e Vale da Pinta",
+          "Valada",
+          "Vale da Pedra",
+          "Vila Chã de Ourique"
+        ]
+      },
+      {
+        "concelho": "Chamusca",
+        "freguesias": [
+          "Carregueira",
+          "Ulme",
+          "União das freguesias da Chamusca e Pinheiro Grande",
+          "União das freguesias de Parreira e Chouto",
+          "Vale de Cavalos"
+        ]
+      },
+      {
+        "concelho": "Constância",
+        "freguesias": [
+          "Constância",
+          "Montalvo",
+          "Santa Margarida da Coutada"
+        ]
+      },
+      {
+        "concelho": "Coruche",
+        "freguesias": [
+          "Biscainho",
+          "Branca",
+          "Couço",
+          "Santana do Mato",
+          "São José da Lamarosa",
+          "União das freguesias de Coruche, Fajarda e Erra"
+        ]
+      },
+      {
+        "concelho": "Entroncamento",
+        "freguesias": [
+          "Nossa Senhora de Fátima",
+          "São João Baptista"
+        ]
+      },
+      {
+        "concelho": "Ferreira do Zêzere",
+        "freguesias": [
+          "Águas Belas",
+          "Beco",
+          "Chãos",
+          "Ferreira do Zêzere",
+          "Igreja Nova do Sobral",
+          "Nossa Senhora do Pranto",
+          "União das freguesias de Areias e Pias"
+        ]
+      },
+      {
+        "concelho": "Golegã",
+        "freguesias": [
+          "Azinhaga",
+          "Golegã",
+          "Pombalinho"
+        ]
+      },
+      {
+        "concelho": "Mação",
+        "freguesias": [
+          "Aboboreira",
+          "Cardigos",
+          "Envendos",
+          "Mação, Penhascoso e Aboboreira",
+          "Carvoeiro",
+          "Ortiga"
+        ]
+      },
+      {
+        "concelho": "Ourém",
+        "freguesias": [
+          "Alburitel",
+          "Atouguia",
+          "Caxarias",
+          "Espite",
+          "Fátima",
+          "Gondemaria e Olival",
+          "Matas e Cercal",
+          "Nossa Senhora da Piedade",
+          "Nossa Senhora das Misericórdias",
+          "Seiça",
+          "Urqueira"
+        ]
+      },
+      {
+        "concelho": "Rio Maior",
+        "freguesias": [
+          "Arrouquelas",
+          "Asseiceira",
+          "Azambujeira e Malaqueijo",
+          "Fráguas",
+          "Outeiro da Cortiçada e Arruda dos Pisões",
+          "Rio Maior",
+          "São João da Ribeira e Ribeira de São João",
+          "São Sebastião",
+          "Vale de Óbidos e Formigais"
+        ]
+      },
+      {
+        "concelho": "Salvaterra de Magos",
+        "freguesias": [
+          "Granho",
+          "Marinhais",
+          "Salvaterra de Magos e Foros de Salvaterra",
+          "União das freguesias de Glória do Ribatejo e Granho",
+          "União das freguesias de Marinhais e Marinhais"
+        ]
+      },
+      {
+        "concelho": "Santarém",
+        "freguesias": [
+          "Abrã",
+          "Abitureiras",
+          "Alcanhões",
+          "Almoster",
+          "Amiais de Baixo",
+          "Arneiro das Milhariças",
+          "Azoia de Cima e Tremês",
+          "Casével e Vaqueiros",
+          "Gançaria",
+          "Moçarria",
+          "Pernes",
+          "Póvoa da Isenta",
+          "Romeira e Várzea",
+          "Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau)",
+          "Vale de Santarém",
+          "São Vicente do Paul e Vale de Figueira"
+        ]
+      },
+      {
+        "concelho": "Sardoal",
+        "freguesias": [
+          "Alcaravela",
+          "Santiago de Montalegre",
+          "Sardoal",
+          "Valhascos"
+        ]
+      },
+      {
+        "concelho": "Tomar",
+        "freguesias": [
+          "Além da Ribeira e Pedreira",
+          "Asseiceira",
+          "Carregueiros",
+          "Casais e Alviobeira",
+          "Madalena e Beselga",
+          "Olalhas",
+          "Paialvo",
+          "Sabacheira",
+          "São Pedro de Tomar",
+          "Serra e Junceira",
+          "Tomar (São João Baptista) e Santa Maria dos Olivais"
+        ]
+      },
+      {
+        "concelho": "Torres Novas",
+        "freguesias": [
+          "Assentiz",
+          "Brogueira, Parceiros de Igreja e Alcorochel",
+          "Chancelaria",
+          "Meia Via",
+          "Olaia e Paço",
+          "Pedrógão",
+          "Riachos",
+          "Torres Novas (Santa Maria, Salvador e Santiago)",
+          "Torres Novas (São Pedro)",
+          "Zibreira"
+        ]
+      },
+      {
+        "concelho": "Vila Nova da Barquinha",
+        "freguesias": [
+          "Atalaia",
+          "Praia do Ribatejo",
+          "Tancos",
+          "Vila Nova da Barquinha"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Setúbal",
+    "concelhos": [
+      {
+        "concelho": "Alcochete",
+        "freguesias": [
+          "Alcochete",
+          "Samouco",
+          "São Francisco"
+        ]
+      },
+      {
+        "concelho": "Alcácer do Sal",
+        "freguesias": [
+          "Comporta",
+          "São Martinho",
+          "Torrão",
+          "União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+        ]
+      },
+      {
+        "concelho": "Almada",
+        "freguesias": [
+          "Costa da Caparica",
+          "União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",
+          "União das freguesias de Caparica e Trafaria",
+          "União das freguesias de Charneca de Caparica e Sobreda",
+          "União das freguesias de Laranjeiro e Feijó"
+        ]
+      },
+      {
+        "concelho": "Barreiro",
+        "freguesias": [
+          "Santo António da Charneca",
+          "União das freguesias de Alto do Seixalinho, Santo André e Verderena",
+          "União das freguesias de Barreiro e Lavradio",
+          "União das freguesias de Palhais e Coina"
+        ]
+      },
+      {
+        "concelho": "Grândola",
+        "freguesias": [
+          "Azinheira dos Barros e São Mamede do Sádão",
+          "Carvalhal",
+          "Grândola e Santa Margarida da Serra",
+          "Melides"
+        ]
+      },
+      {
+        "concelho": "Moita",
+        "freguesias": [
+          "Alhos Vedros",
+          "Baixa da Banheira e Vale da Amoreira",
+          "Gaio-Rosário e Sarilhos Pequenos",
+          "Moita"
+        ]
+      },
+      {
+        "concelho": "Montijo",
+        "freguesias": [
+          "Atalaia e Alto Estanqueiro-Jardia",
+          "Canha",
+          "Montijo e Afonsoeiro",
+          "Pegões",
+          "Sarilhos Grandes"
+        ]
+      },
+      {
+        "concelho": "Palmela",
+        "freguesias": [
+          "Palmela",
+          "Pinhal Novo",
+          "Quinta do Anjo",
+          "Poceirão e Marateca"
+        ]
+      },
+      {
+        "concelho": "Santiago do Cacém",
+        "freguesias": [
+          "Abela",
+          "Alvalade",
+          "Cercal do Alentejo",
+          "Ermidas-Sado",
+          "Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra",
+          "Santo André",
+          "São Domingos e Vale de Água",
+          "São Francisco da Serra"
+        ]
+      },
+      {
+        "concelho": "Seixal",
+        "freguesias": [
+          "Amora",
+          "Corroios",
+          "Fernão Ferro",
+          "União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+        ]
+      },
+      {
+        "concelho": "Sesimbra",
+        "freguesias": [
+          "Castelo (Sesimbra)",
+          "Quinta do Conde",
+          "Santiago (Sesimbra)"
+        ]
+      },
+      {
+        "concelho": "Setúbal",
+        "freguesias": [
+          "Azeitão (São Lourenço e São Simão)",
+          "Gâmbia-Pontes-Alto da Guerra",
+          "Sado",
+          "Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",
+          "Setúbal (São Sebastião)"
+        ]
+      },
+      {
+        "concelho": "Sines",
+        "freguesias": [
+          "Porto Covo",
+          "Sines"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Viana do Castelo",
+    "concelhos": [
+      {
+        "concelho": "Arcos de Valdevez",
+        "freguesias": [
+          "Aboim das Choças",
+          "Aguiã",
+          "Cabana Maior",
+          "Cabreiro",
+          "Cendufe",
+          "Couto",
+          "Gavieira",
+          "Gondoriz",
+          "Jolda (São Paio)",
+          "Miranda",
+          "Monte Redondo",
+          "Oliveira",
+          "Padroso",
+          "Paçô",
+          "Prozelo",
+          "Rio Frio",
+          "Rio de Moinhos",
+          "Sabadim",
+          "Senharei",
+          "Sistelo",
+          "Soajo",
+          "União das freguesias de Alvora e Loureda",
+          "União das freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada",
+          "União das freguesias de Arcos de Valdevez (São Paio) e Giela",
+          "União das freguesias de Eiras e Mei",
+          "União das freguesias de Grade e Carralcova",
+          "União das freguesias de Guilhadeses e Santar",
+          "União das freguesias de Jolda (Madalena) e Rio Cabrão",
+          "União das freguesias de Padreiro (Salvador e Santa Cristina)",
+          "União das freguesias de Portela e Extremo",
+          "União das freguesias de Souto e Tabaçô",
+          "União das freguesias de São Jorge e Ermelo",
+          "União das freguesias de Távora (Santa Maria e São Vicente)",
+          "União das freguesias de Vilela, São Cosme e São Damião e Sá",
+          "Vale",
+          "Ázere"
+        ]
+      },
+      {
+        "concelho": "Caminha",
+        "freguesias": [
+          "Argela",
+          "Dem",
+          "Lanhelas",
+          "Riba de Âncora",
+          "Seixas",
+          "União das freguesias de Arga (Baixo, Cima e São João)",
+          "União das freguesias de Caminha (Matriz) e Vilarelho",
+          "União das freguesias de Gondar e Orbacém",
+          "União das freguesias de Moledo e Cristelo",
+          "União das freguesias de Venade e Azevedo",
+          "Vila Praia de Âncora",
+          "Vilar de Mouros",
+          "Vile",
+          "Âncora"
+        ]
+      },
+      {
+        "concelho": "Melgaço",
+        "freguesias": [
+          "Alvaredo",
+          "Castro Laboreiro e Lamas de Mouro",
+          "Chaviães e Paços",
+          "Cousso",
+          "Cristoval",
+          "Fiães",
+          "Gave",
+          "Glanos e Rio Cabrão",
+          "Paderne",
+          "Parada do Monte e Cubalhão",
+          "Penso",
+          "Prado e Remoães",
+          "São Paio",
+          "Lamas de Mouro"
+        ]
+      },
+      {
+        "concelho": "Monção",
+        "freguesias": [
+          "Abedim",
+          "Anhões e Luzio",
+          "Barbeita",
+          "Barroças e Taias",
+          "Bela",
+          "Cambeses",
+          "Ceivães e Badim",
+          "Longos Vales",
+          "Mazedo e Cortes",
+          "Merufe",
+          "Monção e Troviscoso",
+          "Moreira",
+          "Pias",
+          "Pinheiros",
+          "Podame",
+          "Portela",
+          "Riba de Mouro",
+          "Sago, Lordelo e Parada",
+          "Segude",
+          "Tangil",
+          "Trute",
+          "Troviscoso",
+          "Troporiz e Lapela"
+        ]
+      },
+      {
+        "concelho": "Paredes de Coura",
+        "freguesias": [
+          "Bico e Cristelo",
+          "Castanheira",
+          "Coura",
+          "Cunha",
+          "Formariz e Ferreira",
+          "Infesta",
+          "Mozelos",
+          "Padornelo",
+          "Parada",
+          "Paredes de Coura",
+          "Porreiras",
+          "Resende",
+          "Romarigães",
+          "Rubiães",
+          "São Martinho de Coura",
+          "Linhares",
+          "Cossourado",
+          "Agualonga"
+        ]
+      },
+      {
+        "concelho": "Ponte da Barca",
+        "freguesias": [
+          "Azias",
+          "Boivães",
+          "Bravães",
+          "Britelo, Gémeos e Ourilhe",
+          "Crasto, Ruivos e Grovelas",
+          "Cuide de Vila Verde",
+          "Entre Ambos-os-Rios, Ermida e Germil",
+          "Lavradas",
+          "Lindoso",
+          "Nogueira",
+          "Oleiros",
+          "Paço Vedro de Magalhães",
+          "São Pedro de Vade",
+          "Touvedo (São Lourenço e Salvador)",
+          "Vade (São Tomé)",
+          "Ruivos",
+          "São Paio de Jolda",
+          "Jolda (São Paio)",
+          "Souto"
+        ]
+      },
+      {
+        "concelho": "Ponte de Lima",
+        "freguesias": [
+          "Anais",
+          "Arca e Ponte de Lima",
+          "Arcos",
+          "Arcozelo",
+          "Ardegão, Freixo e Mato",
+          "Associação dos Arcos de Valdevez",
+          "Beiral do Lima",
+          "Boalhosa",
+          "Brandara",
+          "Cabração e Moreira do Lima",
+          "Calheiros",
+          "Calvelo",
+          "Correlhã",
+          "Estorãos",
+          "Facha",
+          "Feitosa",
+          "Fontão",
+          "Fornelos",
+          "Freixo",
+          "Gaifar",
+          "Gandra",
+          "Labrujó, Rendufe e Vilar do Monte",
+          "Labrujó",
+          "Lara",
+          "Pedrosa",
+          "Ribeira",
+          "Rebordões (Santa Maria)",
+          "Rebordões (São Cristóvão)",
+          "Refoios do Lima",
+          "São Vicente de Poiares",
+          "Seara",
+          "Serdedelo",
+          "Santa Maria de Rebordões",
+          "Vitorino das Donas",
+          "Vitorino dos Piães"
+        ]
+      },
+      {
+        "concelho": "Valença",
+        "freguesias": [
+          "Boivão",
+          "Ganfei",
+          "Friestas",
+          "Taião",
+          "Gandra e Taião",
+          "Sanfins",
+          "São Julião e Silva",
+          "São Paio",
+          "Valença, Cristelo Côvo e Arão"
+        ]
+      },
+      {
+        "concelho": "Viana do Castelo",
+        "freguesias": [
+          "Afife",
+          "Alvarães",
+          "Amonde",
+          "Anha",
+          "Anhandeira",
+          "Areosa",
+          "Barroselas e Carvoeiro",
+          "Cardielos e Serreleis",
+          "Castelo do Neiva",
+          "Chafé",
+          "Darque",
+          "Freixieiro de Soutelo",
+          "Lanheses",
+          "Mazarefes e Vila Fria",
+          "Montaria",
+          "Mujães",
+          "Neiva",
+          "Nogueira, Meixedo e Vilar de Murteda",
+          "Outeiro",
+          "Perre",
+          "Santa Marta de Portuzelo",
+          "Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela",
+          "Subportela, Deocriste e Portela Susã",
+          "Torre e Vila Mou",
+          "Vila de Punhe",
+          "Vila Franca",
+          "Vila Fria",
+          "Carreço"
+        ]
+      },
+      {
+        "concelho": "Vila Nova de Cerveira",
+        "freguesias": [
+          "Campos e Vila Meã",
+          "Candemil e Gondar",
+          "Cornes",
+          "Covas",
+          "Gondarém",
+          "Loivo",
+          "Mentrestido",
+          "Reboreda e Nogueira",
+          "Sapardos",
+          "Sopo",
+          "Vila Nova de Cerveira e Lovelhe"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Vila Real",
+    "concelhos": [
+      {
+        "concelho": "Alijó",
+        "freguesias": [
+          "Alijó",
+          "Favaios",
+          "Pegarinhos",
+          "Pinhão",
+          "Sanfins do Douro",
+          "Santa Eugénia",
+          "São Mamede de Ribatua",
+          "União das freguesias de Carlão e Amieiro",
+          "União das freguesias de Castedo e Cotas",
+          "União das freguesias de Pópulo e Ribalonga",
+          "União das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas",
+          "Vila Chã",
+          "Vila Verde",
+          "Vilar de Maçada"
+        ]
+      },
+      {
+        "concelho": "Boticas",
+        "freguesias": [
+          "Alturas do Barroso e Cerdedo",
+          "Ardãos e Bobadela",
+          "Beça",
+          "Boticas e Granja",
+          "Codessoso, Curros e Fiães do Tâmega",
+          "Covas do Barroso",
+          "Dornelas",
+          "Pinho",
+          "Sapiãos",
+          "Vilar e Viveiro"
+        ]
+      },
+      {
+        "concelho": "Chaves",
+        "freguesias": [
+          "Anelhe",
+          "Bustelo",
+          "Cimo de Vila da Castanheira",
+          "Curalha",
+          "Ervededo",
+          "Faiões",
+          "Lama de Arcos",
+          "Mairos",
+          "Moreiras",
+          "Nogueira da Montanha",
+          "Oura",
+          "Outeiro Seco",
+          "Paradela",
+          "Planalto de Monforte (União das freguesias de Oucidres e Bobadela)",
+          "Redondelo",
+          "Sanfins",
+          "Santa Leocádia",
+          "Santa Maria Maior",
+          "Santo António de Monforte",
+          "Santo Estêvão",
+          "São Pedro de Agostém",
+          "São Vicente",
+          "Tronco",
+          "União das freguesias da Madalena e Samaiões",
+          "União das freguesias das Eiras, São Julião de Montenegro e Cela",
+          "União das freguesias de Calvão e Soutelinho da Raia",
+          "União das freguesias de Loivos e Póvoa de Agrações",
+          "União das freguesias de Santa Cruz/Trindade e Sanjurge",
+          "União das freguesias de Soutelo e Seara Velha",
+          "União das freguesias de Travancas e Roriz",
+          "Vale de Anta",
+          "Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras)",
+          "Vila Verde da Raia",
+          "Vilar de Nantes",
+          "Vilarelho da Raia",
+          "Vilas Boas",
+          "Vilela Seca",
+          "Vilela do Tâmega",
+          "Águas Frias"
+        ]
+      },
+      {
+        "concelho": "Mesão Frio",
+        "freguesias": [
+          "Barqueiros",
+          "Cidadelhe",
+          "Mesão Frio (Santo André)",
+          "Oliveira",
+          "União das freguesias de Vila Marim e São Tomé de Covelas"
+        ]
+      },
+      {
+        "concelho": "Mondim de Basto",
+        "freguesias": [
+          "Atei",
+          "Bilhó",
+          "Campanhó e Paradança",
+          "Ermelo e Pardelhas",
+          "Mondim de Basto",
+          "Vilar de Ferreiros"
+        ]
+      },
+      {
+        "concelho": "Montalegre",
+        "freguesias": [
+          "Cabril",
+          "Chã",
+          "Covelães",
+          "Ferral",
+          "Gralhas",
+          "Montalegre e Padroso",
+          "Morgade",
+          "Negrões",
+          "Outeiro",
+          "Paradela",
+          "Pitões das Junias",
+          "Reigoso",
+          "Salto",
+          "Santo André",
+          "Sarrazola",
+          "Sezelhe e Covelães",
+          "Solveira",
+          "Viade de Baixo e Fervidelas",
+          "Tourém"
+        ]
+      },
+      {
+        "concelho": "Murça",
+        "freguesias": [
+          "Carva e Vilares",
+          "Candedo",
+          "Fiolhoso",
+          "Jou",
+          "Murça",
+          "Noura",
+          "Valongo de Milhais"
+        ]
+      },
+      {
+        "concelho": "Peso da Régua",
+        "freguesias": [
+          "Fontelas",
+          "Godim e Covelinhas",
+          "Loureiro",
+          "Moura Morta e Vinhós",
+          "Peso da Régua e Godim",
+          "Sé e São Lourenço de Penaguião",
+          "Vilarinho dos Freires"
+        ]
+      },
+      {
+        "concelho": "Ribeira de Pena",
+        "freguesias": [
+          "Alvadia",
+          "Canedo",
+          "Cerva e Limões",
+          "Santa Marinha",
+          "União das freguesias de Salvador e Santo Aleixo de Além-Tâmega"
+        ]
+      },
+      {
+        "concelho": "Sabrosa",
+        "freguesias": [
+          "Provesende, Gouvães do Douro e São Cristóvão do Douro",
+          "Sabrosa",
+          "São Lourenço de Ribapinhão",
+          "São Martinho de Antas e Paradela de Guiães",
+          "Souto Maior",
+          "Torre do Pinhão",
+          "Vilarinho de São Romão",
+          "Covas do Douro",
+          "Parada de Pinhão",
+          "Celeirós"
+        ]
+      },
+      {
+        "concelho": "Santa Marta de Penaguião",
+        "freguesias": [
+          "Alvações do Corgo",
+          "Cumieira e Marzelos",
+          "Fontes",
+          "Lobão, Sanhoane e Queimadela",
+          "Louredo e Fornelos",
+          "Medrões",
+          "Sever",
+          "União das freguesias de São João de Lobrigos e Sanhoane",
+          "União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane"
+        ]
+      },
+      {
+        "concelho": "Valpaços",
+        "freguesias": [
+          "Água Revés e Crasto",
+          "Argeriz",
+          "Bouçoães",
+          "Canaveses",
+          "Carrazedo de Montenegro e Curros",
+          "Ervões",
+          "Fornos do Pinhal",
+          "Friões",
+          "Leirós",
+          "Rio Torto",
+          "Santa Maria de Émeres",
+          "Santa Valha",
+          "Santiago da Ribeira de Alhariz",
+          "São João da Corveira",
+          "Serapicos",
+          "Vales",
+          "Valpaços e Sanfins",
+          "Vassal",
+          "Veiga de Lila",
+          "Vilarandelo",
+          "Algeriz",
+          "Tinhela e Alvarelhos"
+        ]
+      },
+      {
+        "concelho": "Vila Pouca de Aguiar",
+        "freguesias": [
+          "Alfarela de Jales",
+          "Alvão",
+          "Bornes de Aguiar",
+          "Bragado",
+          "Capeludos",
+          "Sabroso de Aguiar",
+          "Soutelo de Aguiar",
+          "Telões",
+          "Tresminas",
+          "União das freguesias de Pensalvos e Parada de Monteiros",
+          "Valoura",
+          "Vila Pouca de Aguiar",
+          "Vreia de Bornes",
+          "Vreia de Jales"
+        ]
+      },
+      {
+        "concelho": "Vila Real",
+        "freguesias": [
+          "Abaças",
+          "Andrães",
+          "Arroios",
+          "Campeã",
+          "Folhadela",
+          "Guiães",
+          "Lordelo",
+          "Mateus",
+          "Mondrões",
+          "Parada de Cunhos",
+          "Torgueda",
+          "União das freguesias de Adoufe e Vilarinho de Samardã",
+          "União das freguesias de Borbela e Lamas de Olo",
+          "União das freguesias de Constantim e Vale de Nogueiras",
+          "União das freguesias de Mouçós e Lamares",
+          "União das freguesias de Nogueira e Ermida",
+          "União das freguesias de Pena, Quintã e Vila Cova",
+          "União das freguesias de São Tomé do Castelo e Justes",
+          "Vila Marim",
+          "Vila Real"
+        ]
+      }
+    ]
+  },
+  {
+    "distrito": "Viseu",
+    "concelhos": [
+      {
+        "concelho": "Armamar",
+        "freguesias": [
+          "Aldeias",
+          "Armamar",
+          "Cimbres",
+          "Folgosa",
+          "Fontelo",
+          "Queimada",
+          "Queimadela",
+          "Santa Cruz",
+          "São Cosmado",
+          "São Martinho das Chãs",
+          "União das freguesias de Aricera e Goujoim",
+          "União das freguesias de São Romão e Santiago",
+          "União das freguesias de Vila Seca e Santo Adrião",
+          "Vacalar"
+        ]
+      },
+      {
+        "concelho": "Carregal do Sal",
+        "freguesias": [
+          "Beijós",
+          "Cabanas de Viriato",
+          "Carregal do Sal",
+          "Oliveira do Conde",
+          "Parada"
+        ]
+      },
+      {
+        "concelho": "Castro Daire",
+        "freguesias": [
+          "Almofala",
+          "Cabril",
+          "Castro Daire",
+          "Cujó",
+          "Gosende",
+          "Moledo",
+          "Monteiras",
+          "Mões",
+          "Pepim",
+          "Pinheiro",
+          "São Joaninho",
+          "União das freguesias de Mamouros, Alva e Ribolhos",
+          "União das freguesias de Mezio e Moura Morta",
+          "União das freguesias de Parada de Ester e Ester",
+          "União das freguesias de Picão e Ermida",
+          "União das freguesias de Reriz e Gafanhão"
+        ]
+      },
+      {
+        "concelho": "Cinfães",
+        "freguesias": [
+          "Cinfães",
+          "Espadanedo",
+          "Ferreiros de Tendais",
+          "Fornelos",
+          "Moimenta",
+          "Nespereira",
+          "Oliveira do Douro",
+          "Santiago de Piães",
+          "Souselo",
+          "São Cristóvão de Nogueira",
+          "Tarouquela",
+          "Tendais",
+          "União das freguesias de Alhões, Bustelo, Gralheira e Ramires"
+        ]
+      },
+      {
+        "concelho": "Lamego",
+        "freguesias": [
+          "Avões",
+          "Ferreiros de Avões",
+          "Ferreirim",
+          "Britiande",
+          "Cambres",
+          "Cepões",
+          "Penajoia",
+          "Parada do Bispo e Valdigem",
+          "Lalim",
+          "Penude",
+          "Vila Nova de Souto d'El-Rei",
+          "Samodães",
+          "Bigorne, Magueija e Pretarouca",
+          "Sande",
+          "União das freguesias de Lamego (Almacave e Sé)",
+          "União das freguesias de Seara, Meijinhos e Arneirós"
+        ]
+      },
+      {
+        "concelho": "Mangualde",
+        "freguesias": [
+          "Abrunhosa-a-Velha",
+          "Alcafache",
+          "Chãs de Tavares",
+          "Cunha Alta",
+          "Cunha Baixa",
+          "Espinho",
+          "Fornos de Maceira Dão",
+          "Freixiosa",
+          "Mangualde, Mesquitela e Cunha Alta",
+          "Moimenta de Maceira Dão",
+          "Quintela de Azurara",
+          "São João da Fresta",
+          "União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato"
+        ]
+      },
+      {
+        "concelho": "Moimenta da Beira",
+        "freguesias": [
+          "Alvite",
+          "Arcozelos",
+          "Baldos",
+          "Castelo",
+          "Leomil",
+          "Moimenta da Beira",
+          "Nagosa",
+          "Pêra Velha, Aldeia de Nacomba e Ariz",
+          "Peva e Segões",
+          "Sarzedo",
+          "Sever",
+          "Vila da Rua"
+        ]
+      },
+      {
+        "concelho": "Mortágua",
+        "freguesias": [
+          "Mortágua",
+          "Pala",
+          "Sobral"
+        ]
+      },
+      {
+        "concelho": "Nelas",
+        "freguesias": [
+          "Canas de Senhorim",
+          "Carvalhal Redondo e Agueira",
+          "Lapa do Lobo",
+          "Nelas",
+          "Santar e Moreira",
+          "Senhorim",
+          "Vilar Seco"
+        ]
+      },
+      {
+        "concelho": "Oliveira de Frades",
+        "freguesias": [
+          "Arcozelo das Maias",
+          "Arcozelo das Maias",
+          "Destriz e Reigoso",
+          "Oliveira de Frades, Souto de Lafões e Sejães",
+          "São João da Serra",
+          "São Vicente de Lafões"
+        ]
+      },
+      {
+        "concelho": "Penalva do Castelo",
+        "freguesias": [
+          "Antas e Matela",
+          "Castelo de Penalva",
+          "Esmolfe",
+          "Germil",
+          "Ínsua",
+          "Lusinde",
+          "Real",
+          "Sezures",
+          "Trancozelos",
+          "Vila Cova do Covelo / Mareco",
+          "União das freguesias de Pindo e Matela"
+        ]
+      },
+      {
+        "concelho": "Penedono",
+        "freguesias": [
+          "Antas e Ourozinho",
+          "Beselga",
+          "Castainço",
+          "Penedono e Granja",
+          "Penela da Beira",
+          "União das freguesias de São João da Pesqueira e Riodades",
+          "União das freguesias de Soutelo do Douro, Valongo dos Azeites e Vale de Figueira"
+        ]
+      },
+      {
+        "concelho": "Resende",
+        "freguesias": [
+          "Anreade e São Romão de Aregos",
+          "Barrô",
+          "Cárquere",
+          "Felgueiras e Feirão",
+          "Freigil e Miomães",
+          "Ovadas e Panchorra",
+          "Paus",
+          "Resende",
+          "São Cipriano",
+          "São João de Fontoura",
+          "São Martinho de Mouros"
+        ]
+      },
+      {
+        "concelho": "Santa Comba Dão",
+        "freguesias": [
+          "Ovoa e Vimieiro",
+          "Pinheiro de Ázere",
+          "São Joaninho",
+          "Santa Comba Dão e Couto do Mosteiro",
+          "São João de Areias",
+          "Treixedo e Nagozela"
+        ]
+      },
+      {
+        "concelho": "Sernancelhe",
+        "freguesias": [
+          "Carregal",
+          "Chosendo",
+          "Cunha",
+          "Faia",
+          "Ferreirim e Macieira",
+          "Granjal",
+          "Lamosa",
+          "Quintela",
+          "Sernancelhe e Sarzeda",
+          "Vila da Ponte"
+        ]
+      },
+      {
+        "concelho": "Sátão",
+        "freguesias": [
+          "Águas Boas e Forles",
+          "Avelal",
+          "Decermilo e Destriz",
+          "Ferreira de Aves",
+          "Mioma",
+          "Rio de Moinhos",
+          "São Miguel de Vila Boa",
+          "Silvã de Cima",
+          "Sátão",
+          "União das freguesias de Águas Boas e Forles",
+          "União das freguesias de Romãs, Decermilo e Vila Longa"
+        ]
+      },
+      {
+        "concelho": "São João da Pesqueira",
+        "freguesias": [
+          "Castanheiro do Sul",
+          "Ervedosa do Douro",
+          "Nagozelo do Douro",
+          "Paredes da Beira",
+          "Riodades e São João da Pesqueira",
+          "Soutelo do Douro",
+          "Trevões e Espinhosa",
+          "Vale de Figueira",
+          "Várzea de Trevões e Pereiros",
+          "Vilarouco e Pereiros"
+        ]
+      },
+      {
+        "concelho": "São Pedro do Sul",
+        "freguesias": [
+          "Bordonhos",
+          "Carvalhais e Candal",
+          "Figueiredo de Alva",
+          "Manhouce",
+          "Pindelo dos Milagres",
+          "Pinho",
+          "Santa Cruz da Trapa e São Cristóvão de Lafões",
+          "São Félix",
+          "Serrazes",
+          "Sul",
+          "União das freguesias de São Pedro do Sul, Várzea e Baiões",
+          "Valadares"
+        ]
+      },
+      {
+        "concelho": "Tabuaço",
+        "freguesias": [
+          "Adorigo",
+          "Arcos",
+          "Barcos e Santa Leocádia",
+          "Chavães",
+          "Desejosa",
+          "Granja do Tedo",
+          "Longa",
+          "Paradela e Granjinha",
+          "Pinheiros e Vale de Figueira",
+          "Sendim",
+          "Távora e Pereiro",
+          "Valença do Douro",
+          "Tabuaço"
+        ]
+      },
+      {
+        "concelho": "Tarouca",
+        "freguesias": [
+          "Dalvares",
+          "Mondim da Beira",
+          "Salzedas",
+          "São João de Tarouca",
+          "Tarouca e Dálvares",
+          "Várzea da Serra",
+          "Gouviães e Ucanha",
+          "Granja Nova e Vila Chã da Beira"
+        ]
+      },
+      {
+        "concelho": "Tondela",
+        "freguesias": [
+          "Barreiro de Besteiros e Tourigo",
+          "Campo de Besteiros",
+          "Canas de Santa Maria",
+          "Caparrosa e Silvares",
+          "Castelões",
+          "Dardavaz",
+          "Ferreirós do Dão",
+          "Guardão",
+          "Lajeosa do Dão",
+          "Molelos",
+          "Mosteirinho",
+          "Mouraz e Vila Nova da Rainha",
+          "Nandufe",
+          "Parada de Gonta",
+          "Sabugosa",
+          "São João do Monte e Mosteirinho",
+          "Santiago de Besteiros",
+          "Tonda",
+          "Vilar de Besteiros e Mosteiro de Fráguas",
+          "Tondela e Nandufe"
+        ]
+      },
+      {
+        "concelho": "Vila Nova de Paiva",
+        "freguesias": [
+          "Pendilhe",
+          "Queiriga",
+          "Touro",
+          "União das freguesias de Vila Nova de Paiva, Alhais e Fráguas",
+          "Vila Cova à Coelheira"
+        ]
+      },
+      {
+        "concelho": "Vouzela",
+        "freguesias": [
+          "Alcofra",
+          "Campia",
+          "Fornelo do Monte",
+          "Queirã",
+          "São Miguel do Mato",
+          "União das freguesias de Cambra e Carvalhal de Vermilhas",
+          "União das freguesias de Fataunços e Figueiredo das Donas",
+          "União das freguesias de Vouzela e Paços de Vilharigues",
+          "Ventosa"
+        ]
+      }
+    ]
+  }
+]
