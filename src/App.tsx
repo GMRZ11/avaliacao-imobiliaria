@@ -846,7 +846,7 @@ export default function App() {
                 <input
                   id="phone"
                   type="tel"
-                  placeholder="+351 9XX XXX XXX"
+                  placeholder="9XX XXX XXX"
                   className="w-full border border-gray-300 rounded-xl px-4 py-3 text-base focus:border-primary focus:outline-none"
                   value={formData.phone}
                   onChange={(e) => setFormData((prev) => ({ ...prev, phone: e.target.value }))}
