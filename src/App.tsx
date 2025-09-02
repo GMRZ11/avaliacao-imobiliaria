@@ -162,8 +162,7 @@ export default function App() {
         // A área total tem de ser maior que a área útil
         return (
           formData.plotArea.trim() === '' ||
-          Number(formData.plotArea) <= 0 ||
-          Number(formData.plotArea) <= Number(formData.livingArea)
+          Number(formData.plotArea) <= 0
         );
       case 'Floor':
         return formData.floor.trim() === '' || Number(formData.floor) < 0;
@@ -338,7 +337,9 @@ export default function App() {
     } else if (formData.propertyType === 'Moradia') {
       // Fórmula para moradia:
       // ((Área útil × 0.75) + (Área total – Área útil) × 0.35) × Preço_m2 × Fatores
-      const baseArea = (areaUtil * 0.75) + ((areaTotal - areaUtil) * 0.35);
+      const areaDiff = Math.max(0, areaTotal - areaUtil);
+const baseArea = (areaUtil * 0.75) + (areaDiff * 0.35);
+
       let factors = 1.0;
       factors *= getTipologyFactor(formData.propertyConfig);
       factors *= getAgeFactor(formData.yearBuilt);
@@ -515,7 +516,7 @@ export default function App() {
               Indique a área total em metros quadrados (incluindo terreno).
               <br />
               <span className="text-xs text-gray-500">
-                O valor deve ser superior à área útil.
+                
               </span>
             </p>
             <input
@@ -1025,7 +1026,7 @@ export default function App() {
       <div className="min-h-screen flex flex-col items-center justify-center bg-neutral-light py-8 px-4">
         <div className="w-full max-w-md bg-white rounded-2xl shadow-md p-8 flex flex-col items-center">
           <h1 className="text-2xl font-bold mb-4 text-center">
-            Descobre quanto vale a tua casa
+            Descobre Quanto Vale a Tua Casa
           </h1>
           <p className="text-sm text-gray-600 mb-8 text-center">
             Descubra em menos de 1 minuto com a nossa avaliação gratuita.
